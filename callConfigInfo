@@ -1,5 +1,5 @@
 {   
-    "delay"   : 500,
+    "delay"   : 1000,
     "note"    : "Welcome :)",
     "configs" : [
 		{
@@ -7,42 +7,42 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=wrdfg4tf8eg5h4jk8l5mnb4sa8d45f21t8tre965sd2f3vgb15h48652gfb.jerad900.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=wrdfg4tf8eg5h4jk8l5mnb4sa8d45f21t8tre965sd2f3vgb15h48652gfb.jerad900.workers.dev&path=%2Fzqaews#NN1"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@[::ffff:104.16.0.0]:443?encryption=none&security=tls&sni=worker-cool-cloud-87a1.roadluxmaster.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=worker-cool-cloud-87a1.roadluxmaster.workers.dev&path=%2Fzqaews#QQ1"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@arzdigital.com:443?encryption=none&security=tls&sni=worker-muddy-sunset-32befvbnvmhnbgvbfnbgvfvbnbhgfvbnhgnb.1o867k9904.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=worker-muddy-sunset-32befvbnvmhnbgvbfnbgvfvbnbhgfvbnhgnb.1o867k9904.workers.dev&path=%2Fkbinws#GG2"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@tapsell.ir:443?encryption=none&security=tls&sni=ashtfgds5a2dfsdgfnjdsklaghjyku963jh2g1fsdwasdfdhkluykuli5gj32hg.sally42.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=ashtfgds5a2dfsdgfnjdsklaghjyku963jh2g1fsdwasdfdhkluykuli5gj32hg.sally42.workers.dev&path=%2Fkbinws#AA2"
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "DN",
                     "countryName" : "Denmark",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@104.16.0.0:443?encryption=none&security=tls&sni=hello-world-icy-voice-7e0dyfshedjhfszkndmhdkjgf68456556fgshjfkd.gorebbbh.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=hello-world-icy-voice-7e0dyfshedjhfszkndmhdkjgf68456556fgshjfkd.gorebbbh.workers.dev&path=%2Fzqaews#GG1"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=efsterseresturjytjyrenrn5865412gfhd.lavender53.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=efsterseresturjytjyrenrn5865412gfhd.lavender53.workers.dev&path=%2Fzqaews#KK1"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@104.16.0.0:443?encryption=none&security=tls&sni=dsfghjh52g6f54h8j5hg6sfdcxvb89c6x489f5g162hfjg4h52fgb.nakyla350.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=dsfghjh52g6f54h8j5hg6sfdcxvb89c6x489f5g162hfjg4h52fgb.nakyla350.workers.dev&path=%2Fkbinws#NN2"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@tapsell.ir:443?encryption=none&security=tls&sni=rtfghjdklfdxjgwshaklmdbg4vd5x32zdc4es81d65uj1nb65aqas1hjkuli64k.dodgerblue52.workers.dev&alpn=http%2F1.1&fp=firefox&type=ws&host=rtfghjdklfdxjgwshaklmdbg4vd5x32zdc4es81d65uj1nb65aqas1hjkuli64k.dodgerblue52.workers.dev&path=%2Fkbinws#DD2"
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@gcore.com:443?encryption=none&security=tls&sni=1.1.1.1&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=imamkhomaini.dog&path=%2F#ey5pcsxt"
+                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@[::ffff:92.223.84.84]:443?encryption=none&security=tls&sni=::ffff:8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imamkhomaini.dog&path=%2F#ey5pcsxt"
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@api.gcdn.co:443?encryption=none&security=tls&sni=10.202.10.11&alpn=http%2F1.1&fp=chrome&type=ws&host=imamkhomaini.dog&path=%2F#pcsxt222"
+                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@[::ffff:92.223.84.84]:443?encryption=none&security=tls&sni=::ffff:85.15.1.14&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=imamkhomaini.dog&path=%2F#pcsxt222"
                 },
 		{
 		    "id"          : 7,
