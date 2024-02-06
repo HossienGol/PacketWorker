@@ -7,66 +7,59 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@arzdigital.com:443?encryption=none&security=tls&sni=swdfgdsjdkfmhhgd5f6nv236dfg46hng23c9d4f6s2vbc649gd6n1g9ht64jvmh.enzo-15.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=swdfgdsjdkfmhhgd5f6nv236dfg46hng23c9d4f6s2vbc649gd6n1g9ht64jvmh.enzo-15.workers.dev&path=%2Fpxcgws#C6" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=vgwdhbsjfklmekowplfsdgdfs1zx324afsd5f1g23sda45f1d23b5d4s56a1dzv.glenisha0.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=vgwdhbsjfklmekowplfsdgdfs1zx324afsd5f1g23sda45f1d23b5d4s56a1dzv.glenisha0.workers.dev&path=%2Fpxcgws#AP1" 
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@workers.dev:443?encryption=none&security=tls&sni=jfkldsjflkdslfdf5fs4fved35vfr65cvf26dc5gb2r6c5gv2d65h2ngj2mujn3.sally42.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=jfkldsjflkdslfdf5fs4fved35vfr65cvf26dc5gb2r6c5gv2d65h2ngj2mujn3.sally42.workers.dev&path=%2Fpxcgws#C8" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@arzdigital.com:443?encryption=none&security=tls&sni=dfghtrfdvgbnhg4rdf5scvb6ghjk456y2hgj45k6htg21fd5sf1g2cg345e623d.joep40.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dfghtrfdvgbnhg4rdf5scvb6ghjk456y2hgj45k6htg21fd5sf1g2cg345e623d.joep40.workers.dev&path=%2Fpxcgws#AP2" 
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=csdgftrfds2fghj451fsd54gty6hy48ge56w1d25fv4b56g12ds5f4bg5612f1w.korissa2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=csdgftrfds2fghj451fsd54gty6hy48ge56w1d25fv4b56g12ds5f4bg5612f1w.korissa2.workers.dev&path=%2Fpxcgws#C9"
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@tapsell.ir:443?encryption=none&security=tls&sni=wjegmlfknsgmhlfdresfgh4652adfs6g2g3fad6g5hf2a9s26df6x52adf65s62.corwinf24.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=wjegmlfknsgmhlfdresfgh4652adfs6g2g3fad6g5hf2a9s26df6x52adf65s62.corwinf24.workers.dev&path=%2Fpxcgws#AP3"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@tapsell.ir:443?encryption=none&security=tls&sni=hcksdmlcekdsfeds5f2c2sx4fc6ed3g2btg3nj1h3b2gred32fevd3sb6g3m063.linzy55.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=hcksdmlcekdsfeds5f2c2sx4fc6ed3g2btg3nj1h3b2gred32fevd3sb6g3m063.linzy55.workers.dev&path=%2Fpxcgws#C11" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@104.16.0.0:443?encryption=none&security=tls&sni=wjhbsndklmjsqkmldaflsdefgfds54saxc468s5s4ng1hfgfsd51dfgs45e15fg.alexanderb4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=wjhbsndklmjsqkmldaflsdefgfds54saxc468s5s4ng1hfgfsd51dfgs45e15fg.alexanderb4.workers.dev&path=%2Fpxcgws#AP4" 
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@arzdigital.com:443?encryption=none&security=tls&sni=fdcxcfrgfbdgrth44523g45h8465h1g5f4ds125f4861g154t61hg54h61n4512.deundra01.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=fdcxcfrgfbdgrth44523g45h8465h1g5f4ds125f4861g154t61hg54h61n4512.deundra01.workers.dev&path=%2Fpxcgws#C10"
-                },
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=wjhbsndklmjsqkmldaflsdefgfds54saxc468s5s4ng1hfgfsd51dfgs45e15fg.alexanderb4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=wjhbsndklmjsqkmldaflsdefgfds54saxc468s5s4ng1hfgfsd51dfgs45e15fg.alexanderb4.workers.dev&path=%2Fpxcgws#AP5"
+                }, 
 		{
 		    "id"          : 6,
-                    "symbol"      : "CA",
-                    "countryName" : "Canada",
-                    "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@tapsell.ir:443?encryption=none&security=tls&sni=fgdef4d5f45r8645egg48456f5fg4856df4b85g14r8e5gf14gd85egf4b8g515.pixiea20.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=fgdef4d5f45r8645egg48456f5fg4856df4b85g14r8e5gf14gd85egf4b8g515.pixiea20.workers.dev&path=%2Fpxcgws#C7" 
-                },
-		{
-		    "id"          : 7,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
                     "config"      : "vless://d0532e82-a576-4c0e-8354-30be302fad66@www.gcore.com:443?encryption=none&security=tls&sni=::ffff:85.15.1.14&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imamkhomaini.com&path=%2F%3Fed%3D2048#PacketVPN2" 
                 },
 		{
-		    "id"          : 8,
+		    "id"          : 7,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
                     "config"      : "vless://d0532e82-a576-4c0e-8354-30be302fad66@www.gcore.com:443?encryption=none&security=tls&sni=::ffff:8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imamkhomaini.com&path=%2F%3Fed%3D2048#PacketVPN1"
                 },
 		{
-		    "id"          : 9,
+		    "id"          : 8,
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
                     "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@www.gcore.com:443?encryption=none&security=tls&sni=::ffff:8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imamkhomaini.dog&path=%2F#ey5pcsxt"
                 },
 		{
-		    "id"          : 10,
+		    "id"          : 9,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
