@@ -21,7 +21,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@tapsell.ir:443?encryption=none&security=tls&sni=wjegmlfknsgmhlfdresfgh4652adfs6g2g3fad6g5hf2a9s26df6x52adf65s62.corwinf24.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=wjegmlfknsgmhlfdresfgh4652adfs6g2g3fad6g5hf2a9s26df6x52adf65s62.corwinf24.workers.dev&path=%2Fpxcgws#AP3"
+                    "config"      : "vless://a7bb633e-d9cf-4bbd-bfbc-7590360c351a@ns2.digitalocean.com:443?encryption=none&security=tls&sni=xcdfghjukihjgfdsfgh5fd23fg8h456f6d9e45f4wf12df4g1gn64gf5e1gb45f.ceil-d13.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=xcdfghjukihjgfdsfgh5fd23fg8h456f6d9e45f4wf12df4g1gn64gf5e1gb45f.ceil-d13.workers.dev&path=%2Ffkurws#BB3"
                 },
 		{
 		    "id"          : 4,
