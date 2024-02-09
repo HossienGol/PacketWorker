@@ -56,14 +56,14 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@www.gcore.com:443?encryption=none&security=tls&sni=::ffff:8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imamkhomaini.dog&path=%2F#ey5pcsxt"
+                    "config"      : "vless://a7bb633e-d9cf-4bbd-bfbc-7590360c351a@ns2.digitalocean.com:443?encryption=none&security=tls&sni=xcdfghjukihjgfdsfgh5fd23fg8h456f6d9e45f4wf12df4g1gn64gf5e1gb45f.ceil-d13.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=xcdfghjukihjgfdsfgh5fd23fg8h456f6d9e45f4wf12df4g1gn64gf5e1gb45f.ceil-d13.workers.dev&path=%2Ffkurws#BB3"
                 },
 		{
 		    "id"          : 9,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://6f1ab80f-31d7-4c3c-861c-9a47c4c8edb1@ns1.digitalocean.com:2096?encryption=none&security=tls&sni=worker-frosty-recipe-e6a7.roadluxmaster.wORKERS.DeV&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=worker-frosty-recipe-e6a7.roadluxmaster.wORKERS.DeV&path=vless-ws%2F%3Fed%3D2048#11" 
+                    "config"      : "vless://a7bb633e-d9cf-4bbd-bfbc-7590360c351a@ns1.digitalocean.com:443?encryption=none&security=tls&sni=j9yt4g1hn64gs1sdfdfgfded4f62v3ew46rs1gf64t6yh1t6y49t6r3ew4rtgh5.valentin142.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=j9yt4g1hn64gs1sdfdfgfded4f62v3ew46rs1gf64t6yh1t6y49t6r3ew4rtgh5.valentin142.workers.dev&path=%2Ffkurws#BB2" 
                 },
 		{
 		    "id"          : 10,
