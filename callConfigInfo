@@ -7,7 +7,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://6f1ab80f-31d7-4c3c-861c-9a47c4c8edb1@ns1.digitalocean.com:2096?encryption=none&security=tls&sni=worker-frosty-recipe-e6a7.roadluxmaster.wORKERS.DeV&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=worker-frosty-recipe-e6a7.roadluxmaster.wORKERS.DeV&path=vless-ws%2F%3Fed%3D2048#11" 
+                    "config"      : "vless://b53fc022-77d2-44e3-8cfa-f7f702634070@ns1.digitalocean.com:443?encryption=none&security=tls&sni=jsdlzjgosduzjgofsg5df4g56sd4f6ds4fc5ds31v5fd4gv6sd4v64dv8es6d4f.britton4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=jsdlzjgosduzjgofsg5df4g56sd4f6ds4fc5ds31v5fd4gv6sd4v64dv8es6d4f.britton4.workers.dev&path=%2Fqjfmws#WS" 
                 },
 		{
 		    "id"          : 2,
