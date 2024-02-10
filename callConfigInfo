@@ -42,14 +42,14 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://d0532e82-a576-4c0e-8354-30be302fad66@www.gcore.com:443?encryption=none&security=tls&sni=::ffff:85.15.1.14&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imamkhomaini.com&path=%2F%3Fed%3D2048#PacketVPN2" 
+                    "config"      : "vless://d28f6847-b161-4900-b279-e8d1346c4f39@gcore.com:443?encryption=none&security=tls&sni=::ffff:85.15.1.14&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=imamkhameneifather.dog&path=%2F#xrj1wnv9" 
                 },
 		{
 		    "id"          : 7,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://d0532e82-a576-4c0e-8354-30be302fad66@www.gcore.com:443?encryption=none&security=tls&sni=::ffff:8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imamkhomaini.com&path=%2F%3Fed%3D2048#PacketVPN1"
+                    "config"      : "vless://d28f6847-b161-4900-b279-e8d1346c4f39@gcore.com:443?encryption=none&security=tls&sni=::ffff:8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=imamkhameneifather.dog&path=%2F#xrj1wnv999"
                 },
 		{
 		    "id"          : 8,
