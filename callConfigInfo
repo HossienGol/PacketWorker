@@ -21,7 +21,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@arzdigital.com:443?encryption=none&security=tls&sni=g74ght4fg4f4gh4e4edgfdfghjkhgtrthjkl78451gf47hg4fd4gh4ds4fg74sd.raifordc5.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=g74ght4fg4f4gh4e4edgfdfghjkhgtrthjkl78451gf47hg4fd4gh4ds4fg74sd.raifordc5.workers.dev&path=%2Fldthws#WS4"
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=zfdgxhcgjkhgfdsfghjlkjhgfdsafbgfdskfgfljksofxjlkofslkhghg.elfrida-ef9.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=zfdgxhcgjkhgfdsfghjlkjhgfdsafbgfdskfgfljksofxjlkofslkhghg.elfrida-ef9.workers.dev&path=%2Fldthws#WS7"
                 },
 		{
 		    "id"          : 4,
@@ -35,7 +35,7 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns3.digitalocean.com:443?encryption=none&security=tls&sni=fsfsdfdsf4s567f486es413fds1f8was84d231svg54bf5g3n15gh456mjh1215.glenisha0.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fsfsdfdsf4s567f486es413fds1f8was84d231svg54bf5g3n15gh456mjh1215.glenisha0.workers.dev&path=%2Fldthws#WS5"
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@tapsell.ir:443?encryption=none&security=tls&sni=dcvcbzcndbxvdcxgvbrf5cfv1e8d54f1cs56zx3241d854v1cf845d1c2vxf451.alexanderb4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dcvcbzcndbxvdcxgvbrf5cfv1e8d54f1cs56zx3241d854v1cf845d1c2vxf451.alexanderb4.workers.dev&path=%2Fldthws#WS8"
                 }, 
 		{
 		    "id"          : 6,
