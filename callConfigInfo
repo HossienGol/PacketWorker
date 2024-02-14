@@ -28,7 +28,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://qN2DwSoKSL@ns3.digitalocean.com:443?security=tls&sni=egdf54f5sd4g65ds1gh8j5456hsf312d5d3x1n85m6y1fhgfsdf1n523gfg5ng1.deundra01.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=egdf54f5sd4g65ds1gh8j5456hsf312d5d3x1n85m6y1fhgfsdf1n523gfg5ng1.deundra01.workers.dev&path=%2F#Tro4" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@tapsell.ir:443?encryption=none&security=tls&sni=dcvcbzcndbxvdcxgvbrf5cfv1e8d54f1cs56zx3241d854v1cf845d1c2vxf451.alexanderb4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dcvcbzcndbxvdcxgvbrf5cfv1e8d54f1cs56zx3241d854v1cf845d1c2vxf451.alexanderb4.workers.dev&path=%2Fldthws#WS8" 
                 },
 		{
 		    "id"          : 5,
