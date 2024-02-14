@@ -70,7 +70,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "trojan://67Otq4AtTO@gcore.com:443?security=tls&sni=85.15.1.14&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=iran-qeshm.ir&path=%2F#Packet%20Tro" 
+                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=208.67.222.222&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI4" 
                 },
 		{
 		    "id"          : 11,
