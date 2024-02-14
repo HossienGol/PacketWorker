@@ -14,35 +14,35 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns2.digitalocean.com:443?encryption=none&security=tls&sni=jsdlzjgosduzjgofsg5df4g56sd4f6ds4fc5ds31v5fd4gv6sd4v64dv8es6d4f.britton4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=jsdlzjgosduzjgofsg5df4g56sd4f6ds4fc5ds31v5fd4gv6sd4v64dv8es6d4f.britton4.workers.dev&path=%2Fldthws#WS1" 
+                    "config"      : "trojan://qN2DwSoKSL@ns1.digitalocean.com:443?security=tls&sni=fsduhsjeklfghf48ds514gfh68s4ef851cd4sa1d54fa1fs4gh1gsf54dgh1xgs.sally42.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fsduhsjeklfghf48ds514gfh68s4ef851cd4sa1d54fa1fs4gh1gsf54dgh1xgs.sally42.workers.dev&path=%2F#Tro2" 
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=zfdgxhcgjkhgfdsfghjlkjhgfdsafbgfdskfgfljksofxjlkofslkhghg.elfrida-ef9.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=zfdgxhcgjkhgfdsfghjlkjhgfdsafbgfdskfgfljksofxjlkofslkhghg.elfrida-ef9.workers.dev&path=%2Fldthws#WS7"
+                    "config"      : "trojan://qN2DwSoKSL@ns2.digitalocean.com:443?security=tls&sni=dfegrhjghf4d85saf4hg53d4sg63d4f3v1dbx5g31hdf31hgv5dbf31gbe5vdz3.korissa2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dfegrhjghf4d85saf4hg53d4sg63d4f3v1dbx5g31hdf31hgv5dbf31gbe5vdz3.korissa2.workers.dev&path=%2F#Tro3"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://890d5625-112e-4ee2-94ce-6ee12d827fbd@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=dfergdnhv8f4s51we5f46sdawefd4g8y5h6kj4g8fd651df5461dsf5vcx1sd5z.grante33.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dfergdnhv8f4s51we5f46sdawefd4g8y5h6kj4g8fd651df5461dsf5vcx1sd5z.grante33.workers.dev&path=%2Fljcbws#CA2" 
+                    "config"      : "trojan://qN2DwSoKSL@ns3.digitalocean.com:443?security=tls&sni=egdf54f5sd4g65ds1gh8j5456hsf312d5d3x1n85m6y1fhgfsdf1n523gfg5ng1.deundra01.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=egdf54f5sd4g65ds1gh8j5456hsf312d5d3x1n85m6y1fhgfsdf1n523gfg5ng1.deundra01.workers.dev&path=%2F#Tro4" 
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@tapsell.ir:443?encryption=none&security=tls&sni=dcvcbzcndbxvdcxgvbrf5cfv1e8d54f1cs56zx3241d854v1cf845d1c2vxf451.alexanderb4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dcvcbzcndbxvdcxgvbrf5cfv1e8d54f1cs56zx3241d854v1cf845d1c2vxf451.alexanderb4.workers.dev&path=%2Fldthws#WS8"
+                    "config"      : "trojan://qN2DwSoKSL@tapsell.ir:443?security=tls&sni=fsedhjg4f15dsa5g46thyrew8q5e489ds1a54fg15h54gsa1ag4shd1hgr4fag1.linzy55.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fsedhjg4f15dsa5g46thyrew8q5e489ds1a54fg15h54gsa1ag4shd1hgr4fag1.linzy55.workers.dev&path=%2F#Tro5"
                 }, 
 		{
 		    "id"          : 6,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "trojan://OTnDrFPmMJ@tapsell.ir:443?security=tls&sni=qiasfdjhmnslakjdhfmskalojidfdsfg4sd5f4gu51ds4f8g5b61f2ds5a4vf15.bigmehrdad.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=qiasfdjhmnslakjdhfmskalojidfdsfg4sd5f4gu51ds4f8g5b61f2ds5a4vf15.bigmehrdad.workers.dev&path=%2F#zdfp501w" 
+                    "config"      : "trojan://qN2DwSoKSL@arzdigital.com:443?security=tls&sni=k15gf4ds8512fg4h8liuyj48l5kjy615a9fsgd4hsagtdhf4g851fds254yt6jg.dodgerblue52.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=k15gf4ds8512fg4h8liuyj48l5kjy615a9fsgd4hsagtdhf4g851fds254yt6jg.dodgerblue52.workers.dev&path=%2F#Tro6" 
                 },
 		{
 		    "id"          : 7,
