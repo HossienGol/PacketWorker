@@ -77,7 +77,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBhY2tldCBWUE4gMSBWbWVzcyIsDQogICJhZGQiOiAiZ2NvcmUuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImFjZGQ1YTg1LWJlMTEtNGU1Yi1hNTY3LTI4ZjYyZmRjZWFmZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImlyYW4tZmFycy5pciIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiOjpmZmZmOjguOC40LjQiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9" 
+                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=4.2.2.2&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI5" 
                 }
 	
 		
