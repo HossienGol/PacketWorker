@@ -56,28 +56,28 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI2"
+                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=80.80.80.80&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI1"
                 },
 		{
 		    "id"          : 9,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=85.15.1.14&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI3" 
+                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=80.80.80.80&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI1" 
                 },
 		{
 		    "id"          : 10,
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=208.67.222.222&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI4" 
+                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=80.80.80.80&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI1" 
                 },
 		{
 		    "id"          : 11,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=4.2.2.2&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI5" 
+                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=80.80.80.80&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI1" 
                 }
 	
 		
