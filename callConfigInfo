@@ -28,21 +28,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@arzdigital.com:443?encryption=none&security=tls&sni=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&path=%2F#TRX4" 
+                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@tapsell.ir:443?encryption=none&security=tls&sni=s4sa6cdhauihduihsduihiasudsa4d64asdd16sda1sad61sa4dsa64dsa64ds4.britton4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=s4sa6cdhauihduihsduihiasudsa4d64asdd16sda1sad61sa4dsa64dsa64ds4.britton4.workers.dev&path=%2F#TRX7" 
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&path=%2F#TRX5"
+                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=s4sa6cdhauihduihsduihiasudsa4d64asdd16sda1sad61sa4dsa64dsa64ds4.britton4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=s4sa6cdhauihduihsduihiasudsa4d64asdd16sda1sad61sa4dsa64dsa64ds4.britton4.workers.dev&path=%2F#TRX8"
                 }, 
 		{
 		    "id"          : 6,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@tapsell.ir:443?encryption=none&security=tls&sni=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&path=%2F#TRX6" 
+                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=s4sa6cdhauihduihsduihiasudsa4d64asdd16sda1sad61sa4dsa64dsa64ds4.britton4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=s4sa6cdhauihduihsduihiasudsa4d64asdd16sda1sad61sa4dsa64dsa64ds4.britton4.workers.dev&path=%2F#TRX8" 
                 },
 		{
 		    "id"          : 7,
