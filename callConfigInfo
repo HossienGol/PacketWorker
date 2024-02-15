@@ -28,21 +28,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://DAWtfjB2j9@ns3.digitalocean.com:443?security=tls&sni=scdzfhg8res4w51dht4fjghg1ytrewq4ef231g456f123fseg4drhj2f31grfdh.raysha954.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=scdzfhg8res4w51dht4fjghg1ytrewq4ef231g456f123fseg4drhj2f31grfdh.raysha954.workers.dev&path=%2F#TRO4" 
+                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@arzdigital.com:443?encryption=none&security=tls&sni=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&path=%2F#TRX4" 
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "trojan://DAWtfjB2j9@tapsell.ir:443?security=tls&sni=adsfhjgftdse84rgf15h3j5gfds621ef4uj21hg3fd451fs23561f23da2fsghc.jerad900.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=adsfhjgftdse84rgf15h3j5gfds621ef4uj21hg3fd451fs23561f23da2fsghc.jerad900.workers.dev&path=%2F#TRO5"
+                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&path=%2F#TRX5"
                 }, 
 		{
 		    "id"          : 6,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "trojan://DAWtfjB2j9@arzdigital.com:443?security=tls&sni=dafsgdfhj84t65231e64865135e48956sdf231g48563ads84u5fed45sg213hf.nakyla350.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dafsgdfhj84t65231e64865135e48956sdf231g48563ads84u5fed45sg213hf.nakyla350.workers.dev&path=%2F#TRO6" 
+                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@tapsell.ir:443?encryption=none&security=tls&sni=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&path=%2F#TRX6" 
                 },
 		{
 		    "id"          : 7,
