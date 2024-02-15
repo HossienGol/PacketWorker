@@ -1,5 +1,5 @@
 {   
-    "delay"   : 8000,
+    "delay"   : 5000,
     "note"    : "Welcome :)",
     "configs" : [
 		{
@@ -7,7 +7,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://DAWtfjB2j9@dimitris.ns.cloudflare.com:443?security=tls&sni=fsdhujygtre86shg56r4fsg1h6d1tfs6gdf1h5gse1hf5x1ge5sd1g5b6s1gv56.enzo-15.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fsdhujygtre86shg56r4fsg1h6d1tfs6gdf1h5gse1hf5x1ge5sd1g5b6s1gv56.enzo-15.workers.dev&path=%2F#TRO1" 
+                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@ns1.digitalocean.com:443?encryption=none&security=tls&sni=dsfhj74856s4dfg654dd54hj564hy56g4k5hghxf4gb56xfd4b5x1fn5g4m56gf.turtlegreenf52.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dsfhj74856s4dfg654dd54hj564hy56g4k5hghxf4gb56xfd4b5x1fn5g4m56gf.turtlegreenf52.workers.dev&path=%2F#TRX1" 
                 },
 		{
 		    "id"          : 2,
