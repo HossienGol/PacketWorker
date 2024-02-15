@@ -7,42 +7,42 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns3.digitalocean.com:443?encryption=none&security=tls&sni=sdfvbghfb41nh48615d2s54fgh6y8iju5g6f1dsfw231gc4h561f24hg612vf4x.markanthony-75c.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=sdfvbghfb41nh48615d2s54fgh6y8iju5g6f1dsfw231gc4h561f24hg612vf4x.markanthony-75c.workers.dev&path=%2Fldthws#WS11" 
+                    "config"      : "trojan://DAWtfjB2j9@dimitris.ns.cloudflare.com:443?security=tls&sni=fsdhujygtre86shg56r4fsg1h6d1tfs6gdf1h5gse1hf5x1ge5sd1g5b6s1gv56.enzo-15.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fsdhujygtre86shg56r4fsg1h6d1tfs6gdf1h5gse1hf5x1ge5sd1g5b6s1gv56.enzo-15.workers.dev&path=%2F#TRO1" 
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns2.digitalocean.com:443?encryption=none&security=tls&sni=25486265461gf4tg6d31fh461df545s1gd5s4ea1sf54a12fsdgch1fg45hn1jg.arjay.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=25486265461gf4tg6d31fh461df545s1gd5s4ea1sf54a12fsdgch1fg45hn1jg.arjay.workers.dev&path=%2Fldthws#WS10" 
+                    "config"      : "trojan://DAWtfjB2j9@ns1.digitalocean.com:443?security=tls&sni=sadfghyjku564s1e56f4duhg124fs5ghj48sdf21g5hj45g1dsfr54s8hj5g154.deronte-a4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=sadfghyjku564s1e56f4duhg124fs5ghj48sdf21g5hj45g1dsfr54s8hj5g154.deronte-a4.workers.dev&path=%2F#TRO2" 
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns1.digitalocean.com:443?encryption=none&security=tls&sni=dfgh4ds154g1ds54gh6jy154tfrdse4w51f35d45s1f4gh61fdsf4gh56132d1f.neele2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dfgh4ds154g1ds54gh6jy154tfrdse4w51f35d45s1f4gh61fdsf4gh56132d1f.neele2.workers.dev&path=%2Fldthws#WS9"
+                    "config"      : "trojan://DAWtfjB2j9@ns2.digitalocean.com:443?security=tls&sni=dsadf7hg45ds4jg1f5ds485gdhf1jh48g5fs1gdh5hg1ts4hj5f1jdg5s41dg2h.arren52.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dsadf7hg45ds4jg1f5ds485gdhf1jh48g5fs1gdh5hg1ts4hj5f1jdg5s41dg2h.arren52.workers.dev&path=%2F#TRO3"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@tapsell.ir:443?encryption=none&security=tls&sni=dcvcbzcndbxvdcxgvbrf5cfv1e8d54f1cs56zx3241d854v1cf845d1c2vxf451.alexanderb4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dcvcbzcndbxvdcxgvbrf5cfv1e8d54f1cs56zx3241d854v1cf845d1c2vxf451.alexanderb4.workers.dev&path=%2Fldthws#WS8" 
+                    "config"      : "trojan://DAWtfjB2j9@ns3.digitalocean.com:443?security=tls&sni=scdzfhg8res4w51dht4fjghg1ytrewq4ef231g456f123fseg4drhj2f31grfdh.raysha954.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=scdzfhg8res4w51dht4fjghg1ytrewq4ef231g456f123fseg4drhj2f31grfdh.raysha954.workers.dev&path=%2F#TRO4" 
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "trojan://DAWtfjB2j9@ns1.digitalocean.com:443?security=tls&sni=asgfnjadkhfkjdahjklfsdf54d8h654tgj64df641vds54bg8t64j86dg4bfs4h.keawe.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=asgfnjadkhfkjdahjklfsdf54d8h654tgj64df641vds54bg8t64j86dg4bfs4h.keawe.workers.dev&path=%2F#mfnfmthd"
+                    "config"      : "trojan://DAWtfjB2j9@tapsell.ir:443?security=tls&sni=adsfhjgftdse84rgf15h3j5gfds621ef4uj21hg3fd451fs23561f23da2fsghc.jerad900.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=adsfhjgftdse84rgf15h3j5gfds621ef4uj21hg3fd451fs23561f23da2fsghc.jerad900.workers.dev&path=%2F#TRO5"
                 }, 
 		{
 		    "id"          : 6,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "trojan://qN2DwSoKSL@arzdigital.com:443?security=tls&sni=k15gf4ds8512fg4h8liuyj48l5kjy615a9fsgd4hsagtdhf4g851fds254yt6jg.dodgerblue52.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=k15gf4ds8512fg4h8liuyj48l5kjy615a9fsgd4hsagtdhf4g851fds254yt6jg.dodgerblue52.workers.dev&path=%2F#Tro6" 
+                    "config"      : "trojan://DAWtfjB2j9@arzdigital.com:443?security=tls&sni=dafsgdfhj84t65231e64865135e48956sdf231g48563ads84u5fed45sg213hf.nakyla350.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dafsgdfhj84t65231e64865135e48956sdf231g48563ads84u5fed45sg213hf.nakyla350.workers.dev&path=%2F#TRO6" 
                 },
 		{
 		    "id"          : 7,
