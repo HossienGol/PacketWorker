@@ -14,7 +14,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://DAWtfjB2j9@ns1.digitalocean.com:443?security=tls&sni=sadfghyjku564s1e56f4duhg124fs5ghj48sdf21g5hj45g1dsfr54s8hj5g154.deronte-a4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=sadfghyjku564s1e56f4duhg124fs5ghj48sdf21g5hj45g1dsfr54s8hj5g154.deronte-a4.workers.dev&path=%2F#TRO2" 
+                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@ns2.digitalocean.com:443?encryption=none&security=tls&sni=545456rey465sr8e8fweg8ytr4j5u4t4hk5j4tulk8iyj1th3gfg1vf53s1dc3s.maximumredc5.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=545456rey465sr8e8fweg8ytr4j5u4t4hk5j4tulk8iyj1th3gfg1vf53s1dc3s.maximumredc5.workers.dev&path=%2F#TRX2" 
                 },
 		{
 		    "id"          : 3,
