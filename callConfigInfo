@@ -42,7 +42,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=s4sa6cdhauihduihsduihiasudsa4d64asdd16sda1sad61sa4dsa64dsa64ds4.britton4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=s4sa6cdhauihduihsduihiasudsa4d64asdd16sda1sad61sa4dsa64dsa64ds4.britton4.workers.dev&path=%2F#TRX8" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns3.digitalocean.com:443?encryption=none&security=tls&sni=sdfvbghfb41nh48615d2s54fgh6y8iju5g6f1dsfw231gc4h561f24hg612vf4x.markanthony-75c.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=sdfvbghfb41nh48615d2s54fgh6y8iju5g6f1dsfw231gc4h561f24hg612vf4x.markanthony-75c.workers.dev&path=%2Fldthws#WS11" 
                 },
 		{
 		    "id"          : 7,
