@@ -42,7 +42,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://39074dbb-0ef5-47b4-ba21-9a971a7f932c@ns1.digitalocean.com:443?encryption=none&security=tls&sni=hgdkdljshaklfjlesakjtglrskjgosrkjhylrdht2d3h21f4uh6rf1h5tf1h56t.bigmehrdad.workers.dev&alpn=http%2F1.1&fp=firefox&type=ws&host=hgdkdljshaklfjlesakjtglrskjgosrkjhylrdht2d3h21f4uh6rf1h5tf1h56t.bigmehrdad.workers.dev&path=%2Fneoaws#6358" 
+                    "config"      : "vless://19e5b0c0-14f7-4692-9d57-a1f0477b9209@who.int:443?encryption=none&security=tls&sni=ewrjhknsdhcfsjehfklsjnfklsjdmflksdfsd1f3sd5f4s1g65f1gb65g1635f4.korissa2.workers.dev&alpn=http%2F1.1&fp=firefox&type=ws&host=ewrjhknsdhcfsjehfklsjnfklsjdmflksdfsd1f3sd5f4s1g65f1gb65g1635f4.korissa2.workers.dev&path=%2Fozrgws#2424" 
                 },
 		{
 		    "id"          : 7,
