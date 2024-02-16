@@ -7,7 +7,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://16a67b69-aedc-4967-bc88-c9b0fed94611@ns3.digitalocean.com:443?encryption=none&security=tls&sni=sdfgghjfd6d4sf86g4se654y86rd4u86tf4u86g45f4dvd56f1bn5h18g486td4.sotero301.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=sdfgghjfd6d4sf86g4se654y86rd4u86tf4u86g45f4dvd56f1bn5h18g486td4.sotero301.workers.dev&path=%2Femxdws#Black7" 
+                    "config"      : "vless://19e5b0c0-14f7-4692-9d57-a1f0477b9209@ns1.digitalocean.com:443?encryption=none&security=tls&sni=ewrjhknsdhcfsjehfklsjnfklsjdmflksdfsd1f3sd5f4s1g65f1gb65g1635f4.korissa2.workers.dev&alpn=http%2F1.1&fp=firefox&type=ws&host=ewrjhknsdhcfsjehfklsjnfklsjdmflksdfsd1f3sd5f4s1g65f1gb65g1635f4.korissa2.workers.dev&path=%2Fozrgws#2424" 
                 },
 		{
 		    "id"          : 2,
