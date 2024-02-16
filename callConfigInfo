@@ -28,14 +28,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@dsfhj74856s4dfg654dd54hj564hy56g4k5hghxf4gb56xfd4b5x1fn5g4m56gf.turtlegreenf52.workers.dev:443?encryption=none&security=tls&sni=dsfhj74856s4dfg654dd54hj564hy56g4k5hghxf4gb56xfd4b5x1fn5g4m56gf.turtlegreenf52.workers.dev&alpn=h2&fp=chrome&type=ws&host=dsfhj74856s4dfg654dd54hj564hy56g4k5hghxf4gb56xfd4b5x1fn5g4m56gf.turtlegreenf52.workers.dev&path=%2F#TRX1" 
+                    "config"      : "vless://16a67b69-aedc-4967-bc88-c9b0fed94611@fghfjgkh4g64f654g65r4dt54g8rs4t8es4tg68s4fge56s4g654sg56e4g56er.neele2.workers.dev:443?encryption=none&security=tls&sni=fghfjgkh4g64f654g65r4dt54g8rs4t8es4tg68s4fge56s4g654sg56e4g56er.neele2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=fghfjgkh4g64f654g65r4dt54g8rs4t8es4tg68s4fge56s4g654sg56e4g56er.neele2.workers.dev&path=%2Femxdws#Black6" 
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=s4sa6cdhauihduihsduihiasudsa4d64asdd16sda1sad61sa4dsa64dsa64ds4.britton4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=s4sa6cdhauihduihsduihiasudsa4d64asdd16sda1sad61sa4dsa64dsa64ds4.britton4.workers.dev&path=%2F#TRX8"
+                    "config"      : "vless://16a67b69-aedc-4967-bc88-c9b0fed94611@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=fghfjgkh4g64f654g65r4dt54g8rs4t8es4tg68s4fge56s4g654sg56e4g56er.neele2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=safari&type=ws&host=fghfjgkh4g64f654g65r4dt54g8rs4t8es4tg68s4fge56s4g654sg56e4g56er.neele2.workers.dev&path=%2Femxdws#Black66"
                 }, 
 		{
 		    "id"          : 6,
