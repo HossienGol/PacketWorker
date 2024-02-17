@@ -63,21 +63,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=80.80.80.80&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI1" 
+                    "config"      : "vless://ce449515-e3c2-49a9-a66c-fbec714a1ba4@gcore.com:443?encryption=none&security=tls&sni=80.80.80.80&fp=android&type=ws&host=shiraz.com&path=%2F#4" 
                 },
 		{
 		    "id"          : 10,
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=80.80.80.80&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI1" 
+                    "config"      : "vless://ce449515-e3c2-49a9-a66c-fbec714a1ba4@gcore.com:443?encryption=none&security=tls&sni=80.80.80.80&fp=android&type=ws&host=shiraz.com&path=%2F#4" 
                 },
 		{
 		    "id"          : 11,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://CRZc8cXSJu@gcore.com:443?security=tls&sni=80.80.80.80&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=teheran.com&path=%2F#MRI1" 
+                    "config"      : "vless://ce449515-e3c2-49a9-a66c-fbec714a1ba4@gcore.com:443?encryption=none&security=tls&sni=80.80.80.80&fp=android&type=ws&host=shiraz.com&path=%2F#3" 
                 }
 	
 		
