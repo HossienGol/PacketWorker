@@ -49,21 +49,21 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://ce449515-e3c2-49a9-a66c-fbec714a1ba4@gcore.com:443?encryption=none&security=tls&sni=8.8.4.4&fp=android&type=ws&host=shiraz.com&path=%2F#1"
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@discord.com:443?encryption=none&security=tls&sni=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&fp=android&type=ws&host=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&path=%2F#RUN5"
                 },
 		{
 		    "id"          : 8,
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://ce449515-e3c2-49a9-a66c-fbec714a1ba4@gcore.com:443?encryption=none&security=tls&sni=80.80.80.80&fp=android&type=ws&host=shiraz.com&path=%2F#2"
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@discord.com:443?encryption=none&security=tls&sni=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&fp=android&type=ws&host=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&path=%2F#RUN5"
                 },
 		{
 		    "id"          : 9,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://ce449515-e3c2-49a9-a66c-fbec714a1ba4@gcore.com:443?encryption=none&security=tls&sni=80.80.80.80&fp=android&type=ws&host=shiraz.com&path=%2F#4" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@discord.com:443?encryption=none&security=tls&sni=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&fp=android&type=ws&host=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&path=%2F#RUN5" 
                 },
 		{
 		    "id"          : 10,
