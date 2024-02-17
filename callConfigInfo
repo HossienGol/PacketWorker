@@ -7,7 +7,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@repo.steampowered.com:443?encryption=none&security=tls&sni=guhgjiehskfjkldjfkldsjfklejsklfes41fe564sf86e41b6fdx41b6fxd14bg.akili2.workers.dev&fp=android&type=ws&host=guhgjiehskfjkldjfkldsjfklejsklfes41fe564sf86e41b6fdx41b6fxd14bg.akili2.workers.dev&path=%2F#RUN1" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@cloudflare.net:443?encryption=none&security=tls&sni=rfsglfhmlfghed5sa64fg6rdxf4g1b86sex5dg1v56szed1gv6zde54g1v65zse.jeylahf5.workers.dev&fp=android&type=ws&host=rfsglfhmlfghed5sa64fg6rdxf4g1b86sex5dg1v56szed1gv6zde54g1v65zse.jeylahf5.workers.dev&path=%2F#RUN4" 
                 },
 		{
 		    "id"          : 2,
@@ -42,7 +42,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@repo.steampowered.com:443?encryption=none&security=tls&sni=guhgjiehskfjkldjfkldsjfklejsklfes41fe564sf86e41b6fdx41b6fxd14bg.akili2.workers.dev&fp=android&type=ws&host=guhgjiehskfjkldjfkldsjfklejsklfes41fe564sf86e41b6fdx41b6fxd14bg.akili2.workers.dev&path=%2F#RUN1" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@cloudflare.net:443?encryption=none&security=tls&sni=rfsglfhmlfghed5sa64fg6rdxf4g1b86sex5dg1v56szed1gv6zde54g1v65zse.jeylahf5.workers.dev&fp=android&type=ws&host=rfsglfhmlfghed5sa64fg6rdxf4g1b86sex5dg1v56szed1gv6zde54g1v65zse.jeylahf5.workers.dev&path=%2F#RUN4" 
                 },
 		{
 		    "id"          : 7,
