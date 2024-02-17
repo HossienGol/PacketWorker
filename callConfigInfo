@@ -14,7 +14,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@repo.steampowered.com:443?encryption=none&security=tls&sni=dfghj48654gt564s54fg8e7r48ew78e9r45sa1d2315es4h8t4hj5fg1nh3g1h5.camora.workers.dev&fp=android&type=ws&host=dfghj48654gt564s54fg8e7r48ew78e9r45sa1d2315es4h8t4hj5fg1nh3g1h5.camora.workers.dev&path=%2F#81" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@discord.com:443?encryption=none&security=tls&sni=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&fp=android&type=ws&host=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&path=%2F#RUN5" 
                 },
 		{
 		    "id"          : 3,
