@@ -14,7 +14,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://16a67b69-aedc-4967-bc88-c9b0fed94611@bsajkbfckjsdhfklsdhfilksdhkfljeslfesafew54fs5d1v3s1bh5f34hj5nf1.elfrida-ef9.workers.dev:443?encryption=none&security=tls&sni=bsajkbfckjsdhfklsdhfilksdhkfljeslfesafew54fs5d1v3s1bh5f34hj5nf1.elfrida-ef9.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bsajkbfckjsdhfklsdhfilksdhkfljeslfesafew54fs5d1v3s1bh5f34hj5nf1.elfrida-ef9.workers.dev&path=%2Femxdws#Black4" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@discord.com:443?encryption=none&security=tls&sni=dfghj48654gt564s54fg8e7r48ew78e9r45sa1d2315es4h8t4hj5fg1nh3g1h5.camora.workers.dev&fp=android&type=ws&host=dfghj48654gt564s54fg8e7r48ew78e9r45sa1d2315es4h8t4hj5fg1nh3g1h5.camora.workers.dev&path=%2F#81" 
                 },
 		{
 		    "id"          : 3,
