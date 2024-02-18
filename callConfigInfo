@@ -35,7 +35,7 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@gpc.netflix.net:443?encryption=none&security=tls&sni=wqearst465486gs4tj641h6hj4k165hy14fcrd41y6se41r6azws46z41fd61fg.zaylynn31.workers.dev&fp=android&type=ws&host=wqearst465486gs4tj641h6hj4k165hy14fcrd41y6se41r6azws46z41fd61fg.zaylynn31.workers.dev&path=%2F#RUN3"
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@gpc.netflix.net:443?encryption=none&security=tls&sni=sqdwfehjkhgfds48a5d3fg4h65gsa414hg1rfsa41dgr4f1dsa54f1g5ds41frc.deundra01.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=sqdwfehjkhgfds48a5d3fg4h65gsa414hg1rfsa41dgr4f1dsa54f1g5ds41frc.deundra01.workers.dev&path=%2F#RUN13"
                 }, 
 		{
 		    "id"          : 6,
