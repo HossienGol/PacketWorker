@@ -7,7 +7,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@cloudflare.net:443?encryption=none&security=tls&sni=rfsglfhmlfghed5sa64fg6rdxf4g1b86sex5dg1v56szed1gv6zde54g1v65zse.jeylahf5.workers.dev&fp=android&type=ws&host=rfsglfhmlfghed5sa64fg6rdxf4g1b86sex5dg1v56szed1gv6zde54g1v65zse.jeylahf5.workers.dev&path=%2F#RUN4" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@ns2.digitalocean.com:443?encryption=none&security=tls&sni=dfghj48654gt564s54fg8e7r48ew78e9r45sa1d2315es4h8t4hj5fg1nh3g1h5.camora.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dfghj48654gt564s54fg8e7r48ew78e9r45sa1d2315es4h8t4hj5fg1nh3g1h5.camora.workers.dev&path=%2F#RUN8" 
                 },
 		{
 		    "id"          : 2,
@@ -42,7 +42,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@cloudflare.net:443?encryption=none&security=tls&sni=rfsglfhmlfghed5sa64fg6rdxf4g1b86sex5dg1v56szed1gv6zde54g1v65zse.jeylahf5.workers.dev&fp=android&type=ws&host=rfsglfhmlfghed5sa64fg6rdxf4g1b86sex5dg1v56szed1gv6zde54g1v65zse.jeylahf5.workers.dev&path=%2F#RUN4" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@ns2.digitalocean.com:443?encryption=none&security=tls&sni=dfghj48654gt564s54fg8e7r48ew78e9r45sa1d2315es4h8t4hj5fg1nh3g1h5.camora.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dfghj48654gt564s54fg8e7r48ew78e9r45sa1d2315es4h8t4hj5fg1nh3g1h5.camora.workers.dev&path=%2F#RUN8" 
                 },
 		{
 		    "id"          : 7,
