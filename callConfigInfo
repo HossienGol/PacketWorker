@@ -49,14 +49,14 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@discord.com:443?encryption=none&security=tls&sni=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&fp=android&type=ws&host=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&path=%2F#RUN5"
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@ns1.digitalocean.com:443?encryption=none&security=tls&sni=dsfhj74856s4dfg654dd54hj564hy56g4k5hghxf4gb56xfd4b5x1fn5g4m56gf.turtlegreenf52.workers.dev&fp=android&type=ws&host=dsfhj74856s4dfg654dd54hj564hy56g4k5hghxf4gb56xfd4b5x1fn5g4m56gf.turtlegreenf52.workers.dev&path=%2F#RUN6"
                 },
 		{
 		    "id"          : 8,
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@discord.com:443?encryption=none&security=tls&sni=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&fp=android&type=ws&host=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&path=%2F#RUN5"
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@ns2.digitalocean.com:443?encryption=none&security=tls&sni=545456rey465sr8e8fweg8ytr4j5u4t4hk5j4tulk8iyj1th3gfg1vf53s1dc3s.maximumredc5.workers.dev&fp=android&type=ws&host=545456rey465sr8e8fweg8ytr4j5u4t4hk5j4tulk8iyj1th3gfg1vf53s1dc3s.maximumredc5.workers.dev&path=%2F#RUN7"
                 },
 		{
 		    "id"          : 9,
