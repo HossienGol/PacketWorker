@@ -7,42 +7,42 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://9e6f57f5-df62-40e8-8270-0767ad6f0757@repo.steampowered.com:443?encryption=none&security=tls&sni=AFesDjklHgtrf8e456S3HG45FsE84nhmGs48afGS15hdf4FRSG4d1H64F8Ea48f.minaMI-9E6.WorKErs.dEv&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=afESdjKLHGtrF8E456s3Hg45Fse84nhmGs48AfgS15hdf4FRsG4d1h64F8Ea48F.MiNAMI-9e6.wOrkeRs.dEv&path=%2FJ0nRm1S_vGG_jV05%3Fed%3D2048#ed4" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@discord.com:443?encryption=none&security=tls&sni=zxcvbghjkhg48sfjhg56f4h4fd541s5648ws451sd2sad5segre54w5a4rfgv1b.enzo-15.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=zxcvbghjkhg48sfjhg56f4h4fd541s5648ws451sd2sad5segre54w5a4rfgv1b.enzo-15.workers.dev&path=%2F#RUN20" 
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://ca5d1165-8604-4539-a770-dbcf2904e746@ns2.digitalocean.com:443?encryption=none&security=tls&sni=SZjHjkxhnlKXc45648548564d98AWFSEG4RDhtJf584JFG5df84DSf548ds4Fg5.SHAyA.WorKeRs.Dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=szJHjKXHnlkXC45648548564d98AwfsEg4rdhTjF584jFG5Df84dSf548ds4Fg5.shAya.WORKerS.dev&path=%2F_bvsqz831JQ0ENsy%3Fed%3D2048#ed3" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@gpc.netflix.net:443?encryption=none&security=tls&sni=kjkdlsjkfjdskljfksdfd5g4865xg1465x4d1g56xd41g56xd14g456xd14g65x.keawe.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=kjkdlsjkfjdskljfksdfd5g4865xg1465x4d1g56xd41g56xd14g456xd14g65x.keawe.workers.dev&path=%2F#RUN19" 
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@ns1.digitalocean.com:443?encryption=none&security=tls&sni=sdcvhbjkhgfds4a4hg68s4dfg4h86d4f8y54dfgh64cds64fg1h6gc51fg5c15g.korissa2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=sdcvhbjkhgfds4a4hg68s4dfg4h86d4f8y54dfgh64cds64fg1h6gc51fg5c15g.korissa2.workers.dev&path=%2F#RUN12"
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@cloudflare.net:443?encryption=none&security=tls&sni=erfghjgkhkjgfc46854b1fd854g185xd4g85xd41g586d41g85dx41g85dc41gb.newtona4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=erfghjgkhkjgfc46854b1fd854g185xd4g85xd41g586d41g85dx41g85dc41gb.newtona4.workers.dev&path=%2F#RUN18"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@ns3.digitalocean.com:443?encryption=none&security=tls&sni=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=efsgyhd4g68s4f86e486fd4we86t48r64g56fd4b5g6fd4h56td4h8re4hye8tr.tammey74.workers.dev&path=%2F#RUN9" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@ns3.digitalocean.com:443?encryption=none&security=tls&sni=4h4fdh4fb4df5hwdfseg45dv6g8h5485gd4xs5hf4rx5g4h58sd45cg5h4sx45h.grante33.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=4h4fdh4fb4df5hwdfseg45dv6g8h5485gd4xs5hf4rx5g4h58sd45cg5h4sx45h.grante33.workers.dev&path=%2F#RUN17" 
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@gpc.netflix.net:443?encryption=none&security=tls&sni=sqdwfehjkhgfds48a5d3fg4h65gsa414hg1rfsa41dgr4f1dsa54f1g5ds41frc.deundra01.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=sqdwfehjkhgfds48a5d3fg4h65gsa414hg1rfsa41dgr4f1dsa54f1g5ds41frc.deundra01.workers.dev&path=%2F#RUN13"
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@discord.com:443?encryption=none&security=tls&sni=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&fp=android&type=ws&host=sfdgchjfvds5f4cgrx54fx564g56b4dfc54hg5fv4h5gf4h86rd4g8sexd4g86d.maryama-00.workers.dev&path=%2F#RUN5"
                 }, 
 		{
 		    "id"          : 6,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@pkg.cloudflareclient.com:443?encryption=none&security=tls&sni=hfdsnkjhfnkldsjlksafds5f48es6dz1v5xc1v65xsd4v1s6541c65szx41c65s.bigmehrdad.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=hfdsnkjhfnkldsjlksafds5f48es6dz1v5xc1v65xsd4v1s6541c65szx41c65s.bigmehrdad.workers.dev&path=%2F#RUN11" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@cloudflare.net:443?encryption=none&security=tls&sni=rfsglfhmlfghed5sa64fg6rdxf4g1b86sex5dg1v56szed1gv6zde54g1v65zse.jeylahf5.workers.dev&fp=android&type=ws&host=rfsglfhmlfghed5sa64fg6rdxf4g1b86sex5dg1v56szed1gv6zde54g1v65zse.jeylahf5.workers.dev&path=%2F#RUN4" 
                 },
 		{
 		    "id"          : 7,
@@ -56,7 +56,7 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@ns2.digitalocean.com:443?encryption=none&security=tls&sni=545456rey465sr8e8fweg8ytr4j5u4t4hk5j4tulk8iyj1th3gfg1vf53s1dc3s.maximumredc5.workers.dev&fp=android&type=ws&host=545456rey465sr8e8fweg8ytr4j5u4t4hk5j4tulk8iyj1th3gfg1vf53s1dc3s.maximumredc5.workers.dev&path=%2F#RUN7"
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@gpc.netflix.net:443?encryption=none&security=tls&sni=wqearst465486gs4tj641h6hj4k165hy14fcrd41y6se41r6azws46z41fd61fg.zaylynn31.workers.dev&fp=android&type=ws&host=wqearst465486gs4tj641h6hj4k165hy14fcrd41y6se41r6azws46z41fd61fg.zaylynn31.workers.dev&path=%2F#RUN3"
                 },
 		{
 		    "id"          : 9,
