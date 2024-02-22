@@ -7,14 +7,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://7a9838b6-1191-4607-8773-e2ee023ebf2b@23.90.151.62:443?encryption=none&security=tls&sni=saeWSdrJkLhGF4DSE658T4dYh165Sf1RGT5616XDR1G65rD1G65D1cg561C6d1h.kAYLyC34.woRkeRs.deV&alpn=http%2F1.1&fp=ios&type=ws&host=SAEWSDrjKlhGF4dSE658T4DYh165Sf1RgT5616xDR1g65RD1g65D1Cg561c6D1h.kAYLYC34.wORkeRS.DEv&path=%2FS2HhQmmU66FdqoEv%3Fed%3D2048#ed16" 
+                    "config"      : "vless://fd2da434-ce09-43b9-8fb4-89245a148ae1@ns3.digitalocean.com:443?encryption=none&security=tls&sni=dsfghj4DsZ8FA41g65XSg65SEXD41g564sXe56g4165xs41G65XS4d1g65X41g6.ARREN52.woRKeRS.dEV&alpn=http%2F1.1&fp=ios&type=ws&host=dsfghj4dSZ8FA41G65xSG65seXd41G564sxE56g4165xS41G65Xs4D1g65X41g6.arReN52.WOrkErs.DEv&path=%2F4J5DKTi18Xb2rYWU%3Fed%3D2048#ed19" 
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://8824c8c7-a3d0-4569-b7da-14c7846e8b3a@discord.com:443?encryption=none&security=tls&sni=Fdhxsfg4s65xG4d5G46R5D4grD14G46Rd1G946D5X1g65cD1g6B144dc1H4g85y.meLOneE0.worKERs.dev&alpn=http%2F1.1&fp=ios&type=ws&host=FdhXsfg4s65xg4D5g46r5D4GrD14G46rd1G946D5X1g65cD1g6B144dc1h4g85Y.MELONEe0.WOrkERS.DEv&path=%2F-GrliUcvgM-IRx-Z%3Fed%3D2048#ed17" 
+                    "config"      : "vless://8a09a733-2cb7-49dc-ad92-b67885cf492d@discord.com:443?encryption=none&security=tls&sni=DfJKljHgFDsAdFHg48f6Dg4h86F4G896dF4g58DR4g84DG46dR4g1R4d1g98564.rAYShA954.WoRKers.DEv&alpn=http%2F1.1&fp=ios&type=ws&host=dfJklJhgFdSadfHG48f6dg4h86f4G896df4g58Dr4G84Dg46dr4g1r4d1G98564.raysha954.wORkerS.DEv&path=%2FaChKPqabbJKJehrp%3Fed%3D2048#ed20" 
                 },
 		{
 		    "id"          : 3,
@@ -49,7 +49,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://061b1aa8-412b-42da-8f75-b1bf8c65762a@discord.com:443?encryption=none&security=tls&sni=7456541da41s54fv1rX8641gbXFD41GB6xF4186hBXF41g6db41VxfNJ41856GU.maBElLeD5.worKERs.DeV&alpn=http%2F1.1&fp=ios&type=ws&host=7456541da41S54fv1rx8641GBxfD41Gb6xf4186HBxF41G6Db41vXFnj41856Gu.maBEllEd5.woRKErs.deV&path=%2FUh5sVk5xFzG3t3tP%3Fed%3D2048#ed14"
+                    "config"      : "vless://f8d7e15f-4ce7-4562-8ed6-443150425eca@discord.com:443?encryption=none&security=tls&sni=DsfgHjkHgfxDZ8s6Fg4b68x4g6XD4g4XD8g4Xdr84G98dx4Gb4fXbg4C894gBC4.jErAd900.WORkErs.deV&alpn=http%2F1.1&fp=ios&type=ws&host=DSfghJkHgfxdZ8S6fG4B68x4G6xd4G4Xd8g4XDr84G98dx4Gb4fxBG4C894gBC4.JERAd900.WORKERs.dev&path=%2FD6Ky_PWbqfd6Y2YV%3Fed%3D2048#ed21"
                 },
 		{
 		    "id"          : 8,
