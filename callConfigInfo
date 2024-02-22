@@ -21,21 +21,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://87050d64-233c-4e40-91ec-44b866dc90d9@23.90.151.62:443?encryption=none&security=tls&sni=WeRfGdHFkdSzXDFjGsLKDjOSZFLMGLvxDg1Dc4Hr856F4Ch86gC4Fh584cg8F4H.BeDfORd.wOrKers.DeV&alpn=http%2F1.1&fp=ios&type=ws&host=werfGdhfKDSZxdFjGslkdjOSZFlmgLvXDG1DC4Hr856F4Ch86GC4fH584CG8F4H.bEdfoRD.wOrKerS.dEv&path=%2F25GsJsw7kmCroe-x%3Fed%3D2048#ed1"
+                    "config"      : "vless://365b0416-53f5-4101-b3c6-b452a56056c5@23.90.151.62:443?encryption=none&security=tls&sni=sDfHGJ456Gr416dsxe41FgsE5641fSE56Z41fse5641rf856sR41yHTF41H65TF.kemOn05.wORkERs.Dev&alpn=http%2F1.1&fp=ios&type=ws&host=SDfHgj456GR416DsXE41fgSe5641fSe56Z41fse5641RF856Sr41yHtf41H65TF.KEMon05.WOrKErS.DeV&path=%2FlLeSIWHnP2rRFdLc%3Fed%3D2048#ed11"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2494f597-b5b3-47ea-9612-5a85e71722cc@repo.steampowered.com:443?encryption=none&security=tls&sni=SAJKGFKJsGDG564RH89rD54g584RDG854s84G85Er4HG8Sr4Hg8Rs4hg8sr4G8S.kaHLEN3.WORkERS.DEV&alpn=http%2F1.1&fp=ios&type=ws&host=saJkgfkJsgDG564rh89RD54G584rdG854S84g85eR4Hg8sr4hg8rS4hg8sR4G8S.KAhLEN3.wORkerS.dEV&path=%2FZPe_t0fsuiJAVRXl%3Fed%3D2048#ed2" 
+                    "config"      : "vless://df149ddd-dcb6-4fa6-ae32-6b48ae6231bd@23.90.151.62:443?encryption=none&security=tls&sni=dguHk421Q5Sdfh4512WeDFg46HV31GfDrTD3vNHF64T5eFhj4h56FtG5V1H56RX.THoMpsOn73.WorkERS.Dev&alpn=http%2F1.1&fp=ios&type=ws&host=dGuhK421q5sDFh4512wedFG46hV31GfdRtd3VnHf64t5EFhJ4H56ftg5v1H56Rx.ThoMpsoN73.WoRKeRS.Dev&path=%2FXIitABkOF90_IpaE%3Fed%3D2048#ed12" 
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://ca5d1165-8604-4539-a770-dbcf2904e746@ns3.digitalocean.com:443?encryption=none&security=tls&sni=SZjHjkxhnlKXc45648548564d98AWFSEG4RDhtJf584JFG5df84DSf548ds4Fg5.SHAyA.WorKeRs.Dev&alpn=http%2F1.1&fp=ios&type=ws&host=szJHjKXHnlkXC45648548564d98AwfsEg4rdhTjF584jFG5Df84dSf548ds4Fg5.shAya.WORKerS.dev&path=%2F_bvsqz831JQ0ENsy%3Fed%3D2048#ed3"
+                    "config"      : "vless://00aebb48-80dd-4557-9f77-898ee5c9ccf2@ns3.digitalocean.com:443?encryption=none&security=tls&sni=84561De6E41FG6D41JhG5641j65Dx4s1f6aSh41y6UGT41Kh4G156GDs41zF6SD.JAviel.WORkers.dEv&alpn=http%2F1.1&fp=ios&type=ws&host=84561dE6E41FG6d41jhG5641J65dX4S1f6AsH41Y6ugT41kH4G156gDS41zf6Sd.javieL.WorKeRs.DEV&path=%2F8iv3jGG8NxFr_LUE%3Fed%3D2048#ed13"
                 }, 
 		{
 		    "id"          : 6,
@@ -49,7 +49,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://9e6f57f5-df62-40e8-8270-0767ad6f0757@discord.com:443?encryption=none&security=tls&sni=AFesDjklHgtrf8e456S3HG45FsE84nhmGs48afGS15hdf4FRSG4d1H64F8Ea48f.minaMI-9E6.WorKErs.dEv&alpn=http%2F1.1&fp=ios&type=ws&host=afESdjKLHGtrF8E456s3Hg45Fse84nhmGs48AfgS15hdf4FRsG4d1h64F8Ea48F.MiNAMI-9e6.wOrkeRs.dEv&path=%2FJ0nRm1S_vGG_jV05%3Fed%3D2048#ed4"
+                    "config"      : "vless://061b1aa8-412b-42da-8f75-b1bf8c65762a@discord.com:443?encryption=none&security=tls&sni=7456541da41s54fv1rX8641gbXFD41GB6xF4186hBXF41g6db41VxfNJ41856GU.maBElLeD5.worKERs.DeV&alpn=http%2F1.1&fp=ios&type=ws&host=7456541da41S54fv1rx8641GBxfD41Gb6xf4186HBxF41G6Db41vXFnj41856Gu.maBEllEd5.woRKErs.deV&path=%2FUh5sVk5xFzG3t3tP%3Fed%3D2048#ed14"
                 },
 		{
 		    "id"          : 8,
@@ -63,7 +63,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://19f4a67f-88ab-4953-b801-d8e32d8db415@www.speedtest.net:8443?encryption=none&security=tls&sni=SRdHJ86fD4F6G8sexD4F684Zag854D85h485f4j564SF15DSzX4n18Gcu6J4FU1.lASERlemON430.WoRkeRs.DEv&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=SRDhj86Fd4F6G8sexd4f684zaG854D85h485f4j564SF15dszX4n18gcu6j4fu1.laserLEMON430.wOrKERs.dev&path=%2Fxt5Wu3ORt-mfCPmB%3Fed%3D2048#C6" 
+                    "config"      : "vless://9ca991fd-98ca-4d5e-b212-99797c36c547@www.speedtest.net:443?encryption=none&security=tls&sni=yftUGyIhujITYuITuGiyK9548ug4Y894u894g89ut489g4U98g489I4tG84u88T.DYAn-f58.WoRkERS.dEV&alpn=http%2F1.1&fp=ios&type=ws&host=YFtugYihuJItYUItuGIYK9548ug4Y894u894G89Ut489G4u98G489I4tG84u88T.DYAN-f58.wORKeRS.dEv&path=%2F1jHhuP_A-0GbFdGW%3Fed%3D2048#ed15" 
                 },
 		{
 		    "id"          : 10,
