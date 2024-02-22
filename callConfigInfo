@@ -49,7 +49,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://80b808be-775c-408b-840d-f2fde0524aba@www.speedtest.net:8443?encryption=none&security=tls&sni=SDfrJIG8HXZS4dfg86hjv451G54H1Nc41gbx5F41H65BX41F65hb416rcXf41hB.alINDa620.woRkeRS.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=SdfRjIg8hXzs4dfg86hJV451G54H1nC41gbx5f41h65Bx41f65hB416rCxf41hB.aliNDA620.WOrkERs.DEV&path=%2Fx97_j2EM0_ctYdk2%3Fed%3D2048#C5"
+                    "config"      : "vless://9e6f57f5-df62-40e8-8270-0767ad6f0757@discord.com:443?encryption=none&security=tls&sni=AFesDjklHgtrf8e456S3HG45FsE84nhmGs48afGS15hdf4FRSG4d1H64F8Ea48f.minaMI-9E6.WorKErs.dEv&alpn=http%2F1.1&fp=ios&type=ws&host=afESdjKLHGtrF8E456s3Hg45Fse84nhmGs48AfgS15hdf4FRsG4d1h64F8Ea48F.MiNAMI-9e6.wOrkeRs.dEv&path=%2FJ0nRm1S_vGG_jV05%3Fed%3D2048#ed4"
                 },
 		{
 		    "id"          : 8,
