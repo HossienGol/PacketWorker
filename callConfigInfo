@@ -7,7 +7,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://64e63f75-7f87-411c-a799-98f3eecba80c@23.90.151.62:443?encryption=none&security=tls&sni=eIGTlReFG54yJTR8EFg567t48EES4seDw14fGH1Re4h65t41H564T1gdJh45fGT.aBhINAv40.wORKeRs.dEV&alpn=http%2F1.1&fp=ios&type=ws&host=eiGTlREfg54yJtR8efg567T48EeS4sEDw14fGh1rE4h65t41h564t1GdJH45FGt.aBHINAv40.WORkErS.dEv&path=%2F-WJwRwKI-xG-i_-N%3Fed%3D2048#ed5" 
+                    "config"      : "vless://a3ea978a-7748-4c83-a364-ed5739718ca8@discord.com:443?encryption=none&security=tls&sni=aSjHFJkHsdKlsAKDsAmdklcsAMMDlsmKDclSmdCLASMdCLASMlDCmLaSSMCLZmC.lArizAC4.worKeRs.dEv&alpn=http%2F1.1&fp=ios&type=ws&host=aSjhFJKhSdKLSakDsaMdklCsaMmDlsmkDCLSMdClaSmdClAsMLDcmLASSmcLZmc.larizAc4.WoRkerS.DEV&path=%2F5ifdmsjNttf5ClbR%3Fed%3D2048#ed7" 
                 },
 		{
 		    "id"          : 2,
@@ -42,7 +42,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://94a36291-7149-462e-982b-b0765185eb0a@www.speedtest.net:2083?encryption=none&security=tls&sni=ewaDS4HJgfsA4DFRGDx41DfDX4g654Xd6fg4xG4xG464G56Fd4G65FD4g65Fd4g.CAssIUs230.WORKErS.DEV&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=eWAdS4hJGfSa4DFRgDX41dfdX4g654xd6FG4xG4xg464g56fd4g65Fd4G65FD4G.CAsSiUs230.woRkErS.dEV&path=%2FD-D-wEdQ3GMOysZb%3Fed%3D2048#B8" 
+                    "config"      : "vless://aaf8ddff-cbd3-4255-8e49-b7e2229780f6@23.90.151.62:443?encryption=none&security=tls&sni=DsfghJKhfS6dxf8sex4f68s489F48sz4f8EZ4F8Z4f87ZS947F89Szf97s489f7.AMeY93.WORkeRs.dev&alpn=http%2F1.1&fp=ios&type=ws&host=dsfgHJkhfS6Dxf8sEx4f68S489f48sz4f8Ez4f8Z4f87zs947F89szf97s489f7.AMeY93.workerS.dEV&path=%2FLJ-VOMJNb7Zu2QdR%3Fed%3D2048#ed8" 
                 },
 		{
 		    "id"          : 7,
@@ -56,7 +56,7 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://f76650c4-aae8-44a8-bbf6-c86d8681130f@www.speedtest.net:2083?encryption=none&security=tls&sni=sFDgHJKHgFdSasdf5gnbHgs456zCfgV6hbGrEw4sa8D9Fg65HF4dS8A5AdfGt8D.NelLoF2.WorKERS.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=SFDGHJkhgFDsasdf5gnBhGs456Zcfgv6hBGREW4sA8d9fg65hf4Ds8A5adfGT8D.NELLof2.WorkerS.deV&path=%2FCoakH0Xc72-ue4PH%3Fed%3D2048#B5"
+                    "config"      : "vless://1490bca9-a958-4afd-a95d-c6cb2ff26178@cloudflare.net:443?encryption=none&security=tls&sni=dCSfeGRhJk4865h8G4165Tc84dH16FcD4H8CG41H68cg4HB4Cg68h4NCtf64h6C.MeNg1.WOrkerS.Dev&alpn=http%2F1.1&fp=ios&type=ws&host=DcsFeGrHjK4865h8g4165tC84dH16FCD4H8Cg41H68Cg4HB4Cg68h4nctf64H6C.meNg1.wOrKeRs.dEv&path=%2Fck-6cCGY8jID1JAW%3Fed%3D2048#ed9"
                 },
 		{
 		    "id"          : 9,
