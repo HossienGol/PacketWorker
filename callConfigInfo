@@ -56,14 +56,14 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://4aa6340f-6055-496b-b67e-89a35262dbeb@www.speedtest.net:443?encryption=none&security=tls&sni=wdfegrtjhgfrf5gc645f4g56s4dg56s4dg56s4d5g4ds5g4sg465sd4g65sd4gs.maximumredc5.WORkErs.dEV&alpn=http%2F1.1&fp=ios&type=ws&host=wdfegrtjhgfrf5gc645f4g56s4dg56s4dg56s4d5g4ds5g4sg465sd4g65sd4gs.maximumredc5.WORkErs.dEV&path=vless-ws%2F%3Fed%3D2048#V12"
+                    "config"      : "vless://911d3dbd-65a1-43a1-ba63-797d207fb6ae@23.90.151.62:443?encryption=none&security=tls&sni=rfdhrdfg486sd4g86h5g1n3f1v2ds1g56f4dh56r1sgsed12f1h231h23d1h23f.darenda544.woRKERs.dev&alpn=http%2F1.1&fp=ios&type=ws&host=rfdhrdfg486sd4g86h5g1n3f1v2ds1g56f4dh56r1sgsed12f1h231h23d1h23f.darenda544.woRKERs.dev&path=vless-ws%2F%3Fed%3D2048#V25"
                 },
 		{
 		    "id"          : 9,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://14284925-e784-4e19-9746-732aa778922d@www.speedtest.net:443?encryption=none&security=tls&sni=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&alpn=http%2F1.1&fp=ios&type=ws&host=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&path=vless-ws%2F%3Fed%3D2048#V13" 
+                    "config"      : "vless://19ed6236-42b4-4a5c-a5f2-cef14c8b7dbc@discord.com:443?encryption=none&security=tls&sni=dsfehgres4dsrf4dg65s4f1ge86s54g86sx1fg56zs1fc56sz4f1gs568e41g65.alban-3fb.WOrKERs.dev&alpn=http%2F1.1&fp=ios&type=ws&host=dsfehgres4dsrf4dg65s4f1ge86s54g86sx1fg56zs1fc56sz4f1gs568e41g65.alban-3fb.WOrKERs.dev&path=vless-ws%2F%3Fed%3D2048#V26" 
                 },
 		{
 		    "id"          : 10,
