@@ -35,14 +35,14 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://739612cb-d04a-4725-9a8d-eefa36da1c1e@www.speedtest.net:443?encryption=none&security=tls&sni=wreftgdhjgfdascvx45634dc56vx4dgv65sxg4v156szd1v65zdv165xv156xsd.korissa2.WORKErs.DEV&alpn=http%2F1.1&fp=ios&type=ws&host=wreftgdhjgfdascvx45634dc56vx4dgv65sxg4v156szd1v65zdv165xv156xsd.korissa2.WORKErs.DEV&path=vless-ws%2F%3Fed%3D2048#V16"
+                    "config"      : "vless://300b8f63-5b23-409b-8472-c0306b97709d@arzdigital.com:443?encryption=none&security=tls&sni=fesgasjdkfgldjglsdkjfisejdfsxkjdmvglsgvsxdgbftj2n4j1ngv561jn5vg.issac152.WOrkeRS.DEV&alpn=http%2F1.1&fp=ios&type=ws&host=fesgasjdkfgldjglsdkjfisejdfsxkjdmvglsgvsxdgbftj2n4j1ngv561jn5vg.issac152.WOrkeRS.DEV&path=vless-ws%2F%3Fed%3D2048#V23"
                 }, 
 		{
 		    "id"          : 6,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://aa263541-3d92-4678-80e7-029bf6337093@www.speedtest.net:443?encryption=none&security=tls&sni=asdfhjgfdserfgttf45dg4g6d4g65df4g56fd4gb5f415hb6fd1h56df41gb5df.turtlegreenf52.wOrKers.deV&alpn=http%2F1.1&fp=ios&type=ws&host=asdfhjgfdserfgttf45dg4g6d4g65df4g56fd4gb5f415hb6fd1h56df41gb5df.turtlegreenf52.wOrKers.deV&path=vless-ws%2F%3Fed%3D2048#V11" 
+                    "config"      : "vless://60392a3e-1a83-46a2-b8af-4bb6362498c1@gpc.netflix.net:443?encryption=none&security=tls&sni=dfghdsf4g564f6es541g3d1g32ds1g56sr1g56sx1g65sx1g56s1s6g1s56x1g5.magnus04.workeRS.deV&alpn=http%2F1.1&fp=ios&type=ws&host=dfghdsf4g564f6es541g3d1g32ds1g56sr1g56sx1g65sx1g56s1s6g1s56x1g5.magnus04.workeRS.deV&path=vless-ws%2F%3Fed%3D2048#V24" 
                 },
 		{
 		    "id"          : 7,
