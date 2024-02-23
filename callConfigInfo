@@ -35,7 +35,7 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://bd054b75-c406-43da-b1be-3b45391cfac0@ns3.digitalocean.com:443?encryption=none&security=tls&sni=dksjhnfjkdszjfkldsfdsf4ds54f15ds3f415dz34f6sd5f41s65f1s564f1s56.jeylahf5.WOrKERs.dev&alpn=http%2F1.1&fp=ios&type=ws&host=dksjhnfjkdszjfkldsfdsf4ds54f15ds3f415dz34f6sd5f41s65f1s564f1s56.jeylahf5.WOrKERs.dev&path=vless-ws%2F%3Fed%3D2048#V8"
+                    "config"      : "vless://739612cb-d04a-4725-9a8d-eefa36da1c1e@www.speedtest.net:443?encryption=none&security=tls&sni=wreftgdhjgfdascvx45634dc56vx4dgv65sxg4v156szd1v65zdv165xv156xsd.korissa2.WORKErs.DEV&alpn=http%2F1.1&fp=ios&type=ws&host=wreftgdhjgfdascvx45634dc56vx4dgv65sxg4v156szd1v65zdv165xv156xsd.korissa2.WORKErs.DEV&path=vless-ws%2F%3Fed%3D2048#V16"
                 }, 
 		{
 		    "id"          : 6,
