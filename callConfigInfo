@@ -63,7 +63,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://9ca991fd-98ca-4d5e-b212-99797c36c547@www.speedtest.net:443?encryption=none&security=tls&sni=yftUGyIhujITYuITuGiyK9548ug4Y894u894g89ut489g4U98g489I4tG84u88T.DYAn-f58.WoRkERS.dEV&alpn=http%2F1.1&fp=ios&type=ws&host=YFtugYihuJItYUItuGIYK9548ug4Y894u894G89Ut489G4u98G489I4tG84u88T.DYAN-f58.wORKeRS.dEv&path=%2F1jHhuP_A-0GbFdGW%3Fed%3D2048#ed15" 
+                    "config"      : "vless://14284925-e784-4e19-9746-732aa778922d@www.speedtest.net:443?encryption=none&security=tls&sni=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&alpn=http%2F1.1&fp=ios&type=ws&host=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&path=vless-ws%2F%3Fed%3D2048#V13" 
                 },
 		{
 		    "id"          : 10,
