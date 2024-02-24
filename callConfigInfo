@@ -21,21 +21,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://673c6617-3610-487a-b51b-4f31927eec52@tapsell.ir:443?encryption=none&security=tls&sni=esrdtfygjuhdsawedfshgds4f6g5x4dsfv86sdx4g68dx4f86sx5d4g6xd4g6d8.alexanderb4.wOrkeRS.dEv&alpn=http%2F1.1&fp=ios&type=ws&host=esrdtfygjuhdsawedfshgds4f6g5x4dsfv86sdx4g68dx4f86sx5d4g6xd4g6d8.alexanderb4.wOrkeRS.dEv&path=vless-ws%2F%3Fed%3D2048#V2"
+                    "config"      : "vless://14284925-e784-4e19-9746-732aa778922d@tapsell.ir:443?encryption=none&security=tls&sni=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&alpn=http%2F1.1&fp=ios&type=ws&host=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&path=vless-ws%2F%3Fed%3D2048#V13"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://799a8617-44dd-4872-ac4f-ed1335ae217a@discord.com:443?encryption=none&security=tls&sni=dasuihfiksdhnfklrsdxgs6d4fv8se64gv5xfd41gb5fx4gb58fx41gb654f86g.neele2.WORKErs.DEv&alpn=http%2F1.1&fp=ios&type=ws&host=dasuihfiksdhnfklrsdxgs6d4fv8se64gv5xfd41gb5fx4gb58fx41gb654f86g.neele2.WORKErs.DEv&path=vless-ws%2F%3Fed%3D2048#V3" 
+                    "config"      : "vless://298bf67d-fb7b-43c1-8d58-5c514b048c11@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=sdfjkytresdf446grd4g64dgf6s4f8e6sdf41se56d4f15sedf1vs1vf5sd1fvs.tammey74.wORkerS.dev&alpn=http%2F1.1&fp=ios&type=ws&host=sdfjkytresdf446grd4g64dgf6s4f8e6sdf41se56d4f15sedf1vs1vf5sd1fvs.tammey74.wORkerS.dev&path=vless-ws%2F%3Fed%3D2048#V14" 
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-		    "config"      : "vless://28541950-c991-4d8e-8b73-a0610d0e8310@zula.ir:443?encryption=none&security=tls&sni=efgrgdc5sd45esdfs4d86g54brd84bg6dx4gfs4dfs564f6sd4f6d4g64dcx6g4.shawana5.WoRkErs.deV&alpn=http%2F1.1&fp=ios&type=ws&host=efgrgdc5sd45esdfs4d86g54brd84bg6dx4gfs4dfs564f6sd4f6d4g64dcx6g4.shawana5.WoRkErs.deV&path=vless-ws%2F%3Fed%3D2048#V10"
+		    "config"      : "vless://7c46bc8e-f60d-4247-8eb6-88435eded43b@arzdigital.com:443?encryption=none&security=tls&sni=sdfgtr4dfs4f6s4dgd4g56sd4g5ds4g56sd4g56sd4gsd4g5ds4gs4dg56sd4g5.rabbit1.wORKerS.DeV&alpn=http%2F1.1&fp=ios&type=ws&host=sdfgtr4dfs4f6s4dgd4g56sd4g5ds4g56sd4g56sd4gsd4g5ds4gs4dg56sd4g5.rabbit1.wORKerS.DeV&path=vless-ws%2F%3Fed%3D2048#V15"
                 }, 
 		{
 		    "id"          : 6,
