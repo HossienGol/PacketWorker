@@ -7,14 +7,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://6fea220c-a088-4533-847c-712e0be1a3f5@arzdigital.com:443?encryption=none&security=tls&sni=asdfhjgfdsadf4jhg4t165hcjf156tg14r41g61g56fd1gfd1g65fd41gbd1b65.linzy55.worKErS.deV&alpn=http%2F1.1&fp=ios&type=ws&host=asdfhjgfdsadf4jhg4t165hcjf156tg14r41g61g56fd1gfd1g65fd41gbd1b65.linzy55.worKErS.deV&path=vless-ws%2F%3Fed%3D2048#V18" 
+                    "config"      : "vless://96210097-1720-4928-a216-f70f1d43d8c5@23.90.151.62:443?encryption=none&security=tls&sni=sdfcgvhgfdfsgdh4564hgsf4kh6r4a4tg56dg15q5dafs5e4tg56hf4h564d5h6.grante33.workeRS.Dev&alpn=http%2F1.1&fp=ios&type=ws&host=sdfcgvhgfdfsgdh4564hgsf4kh6r4a4tg56dg15q5dafs5e4tg56hf4h564d5h6.grante33.workeRS.Dev&path=vless-ws%2F%3Fed%3D2048#V20" 
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://7e1f71ec-607e-46b1-8679-11e2702f1987@tapsell.ir:443?encryption=none&security=tls&sni=bcghgfdsfjkhgfdsa4hg464gf6d4hf4h6fh46fdh46fdh4fd4h56fdh45fd4hdf.dodgerblue52.WorKErs.dev&alpn=http%2F1.1&fp=ios&type=ws&host=bcghgfdsfjkhgfdsa4hg464gf6d4hf4h6fh46fdh46fdh4fd4h56fdh45fd4hdf.dodgerblue52.WorKErs.dev&path=vless-ws%2F%3Fed%3D2048#V19" 
+                    "config"      : "vless://416bbebe-eedf-4f30-8f31-6a5b7b3fbf31@23.90.151.62:443?encryption=none&security=tls&sni=nvhbgfdshjvbg46s5e4ghjfg4y8er6s48wfsed64g6j48ugo4lk564gasxz4vcs.newtona4.WOrKERs.DEV&alpn=http%2F1.1&fp=ios&type=ws&host=nvhbgfdshjvbg46s5e4ghjfg4y8er6s48wfsed64g6j48ugo4lk564gasxz4vcs.newtona4.WOrKERs.DEV&path=vless-ws%2F%3Fed%3D2048#V21" 
                 },
 		{
 		    "id"          : 3,
