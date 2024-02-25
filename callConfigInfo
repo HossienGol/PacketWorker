@@ -49,7 +49,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns3.digitalocean.com:443?encryption=none&security=tls&sni=sfashaghdgbsjabdjksad5sa256d486s4sa1c564sw98de48sf4eds4c6sac5xz.b4e2fb38a2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=sfashaghdgbsjabdjksad5sa256d486s4sa1c564sw98de48sf4eds4c6sac5xz.b4e2fb38a2.workers.dev&path=%2Fldthws#PacketVPN9"
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns1.digitalocean.com:443?encryption=none&security=tls&sni=qswdafghfgfwakjdklsajdklasjdklsajdklsajdklsajdlksakdsa453d4sa55.glenisha0.workers.dev&alpn=http%2F1.1&fp=ios&type=ws&host=qswdafghfgfwakjdklsajdklasjdklsajdklsajdklsajdlksakdsa453d4sa55.glenisha0.workers.dev&path=%2Fldthws#PacketVPN101"
                 },
 		{
 		    "id"          : 8,
