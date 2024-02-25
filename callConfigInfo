@@ -7,14 +7,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://799a8617-44dd-4872-ac4f-ed1335ae217a@goftogooyemelal.ir:443?encryption=none&security=tls&sni=dasuihfiksdhnfklrsdxgs6d4fv8se64gv5xfd41gb5fx4gb58fx41gb654f86g.neele2.WORKErs.DEv&alpn=http%2F1.1&fp=ios&type=ws&host=dasuihfiksdhnfklrsdxgs6d4fv8se64gv5xfd41gb5fx4gb58fx41gb654f86g.neele2.WORKErs.DEv&path=vless-ws%2F%3Fed%3D2048#V3" 
+                    "config"      : "vless://e23c5f54-7677-4d93-956a-e3f5b4e22511@www.speedtest.net:443?encryption=none&security=tls&sni=fcsdklnfkldsjflksdjkfljsdxklvmkfdlmkvglxdmg56465f41s5641f6s5d4f.zaylynn31.wOrkeRs.dEV&alpn=http%2F1.1&fp=ios&type=ws&host=fcsdklnfkldsjflksdjkfljsdxklvmkfdlmkvglxdmg56465f41s5641f6s5d4f.zaylynn31.wOrkeRs.dEV&path=vless-ws%2F%3Fed%3D2048#V7" 
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://bb6d8324-58ab-4e84-8b1f-85b9720f60ea@ticket.pardiiskala.ir:443?encryption=none&security=tls&sni=cdzsfdsfdsfds54fe6sd4ef6esd4fe4sd8f48s4fse64f84s6f4s64fs64fs6f4.sally42.WorKerS.DEV&alpn=http%2F1.1&fp=ios&type=ws&host=cdzsfdsfdsfds54fe6sd4ef6esd4fe4sd8f48s4fse64f84s6f4s64fs64fs6f4.sally42.WorKerS.DEV&path=vless-ws%2F%3Fed%3D2048#V4" 
+                    "config"      : "vless://bd054b75-c406-43da-b1be-3b45391cfac0@ns3.digitalocean.com:443?encryption=none&security=tls&sni=dksjhnfjkdszjfkldsfdsf4ds54f15ds3f415dz34f6sd5f41s65f1s564f1s56.jeylahf5.WOrKERs.dev&alpn=http%2F1.1&fp=ios&type=ws&host=dksjhnfjkdszjfkldsfdsf4ds54f15ds3f415dz34f6sd5f41s65f1s564f1s56.jeylahf5.WOrKERs.dev&path=vless-ws%2F%3Fed%3D2048#V8" 
                 },
 		{
 		    "id"          : 3,
