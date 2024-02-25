@@ -21,14 +21,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://4a8049b1-09b5-4a8e-9d5a-7298ad2753e6@payphone.ir:443?encryption=none&security=tls&sni=sdfhgj4h8t6f4dg8dr4xg85dx4g96frx84dgd4xg84dr4gd4grd41g4d4g1d6g4.akili2.workerS.deV&alpn=http%2F1.1&fp=ios&type=ws&host=sdfhgj4h8t6f4dg8dr4xg85dx4g96frx84dgd4xg84dr4gd4grd41g4d4g1d6g4.akili2.workerS.deV&path=vless-ws%2F%3Fed%3D2048#V5"
+                    "config"      : "vless://d1c8ec7b-ddad-48fd-947f-a2f6b2103202@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=fghujgfghfh6gf54hb865f4h6gf4h65f4gh86fg4h6gf4hgf4h5gf4h56f4h56g.maryama-00.wOrKErs.DEv&alpn=http%2F1.1&fp=ios&type=ws&host=fghujgfghfh6gf54hb865f4h6gf4h65f4gh86fg4h6gf4hgf4h5gf4h56f4h56g.maryama-00.wOrKErs.DEv&path=vless-ws%2F%3Fed%3D2048#V9"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://55d16410-7d6b-4707-8f8d-c799b1ea706f@giftistore.ir:443?encryption=none&security=tls&sni=fsgcvhkbgfd4z6sg68xf41g654x1d56gf4v1xd56g416xd4g16x8d41g6xf41g5.spanishred34.wORkeRs.dEV&alpn=http%2F1.1&fp=ios&type=ws&host=fsgcvhkbgfd4z6sg68xf41g654x1d56gf4v1xd56g416xd4g16x8d41g6xf41g5.spanishred34.wORkeRs.dEV&path=vless-ws%2F%3Fed%3D2048#V6" 
+                    "config"      : "vless://28541950-c991-4d8e-8b73-a0610d0e8310@arzdigital.com:443?encryption=none&security=tls&sni=efgrgdc5sd45esdfs4d86g54brd84bg6dx4gfs4dfs564f6sd4f6d4g64dcx6g4.shawana5.WoRkErs.deV&alpn=http%2F1.1&fp=ios&type=ws&host=efgrgdc5sd45esdfs4d86g54brd84bg6dx4gfs4dfs564f6sd4f6d4g64dcx6g4.shawana5.WoRkErs.deV&path=vless-ws%2F%3Fed%3D2048#V10" 
                 },
 		{
 		    "id"          : 5,
