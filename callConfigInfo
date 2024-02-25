@@ -42,7 +42,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@zula.ir:443?encryption=none&security=tls&sni=vdfgjtseda45dfw231g4r8eswe14tt651sedad4f8gh56f1sd54f85g12deaw54.rus1.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vdfgjtseda45dfw231g4r8eswe14tt651sedad4f8gh56f1sd54f85g12deaw54.rus1.workers.dev&path=%2Fldthws#Packet%20VPN5" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=dwfsghdwrds6d6sd68s4d5sa456a45d4s5ad45sa54d5a4d45ad45sa45das4d5.charito.workers.dev&alpn=http%2F1.1&fp=ios&type=ws&host=dwfsghdwrds6d6sd68s4d5sa456a45d4s5ad45sa54d5a4d45ad45sa45das4d5.charito.workers.dev&path=%2Fldthws#PacketVPN104" 
                 },
 		{
 		    "id"          : 7,
