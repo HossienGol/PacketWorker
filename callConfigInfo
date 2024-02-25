@@ -56,14 +56,14 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@arzdigital.com:443?encryption=none&security=tls&sni=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&alpn=http%2F1.1&fp=ios&type=ws&host=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&path=%2Fldthws#PacketVPN10"
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=ehgjgt56gs4ds45d86f4es6d5841f5sx4f6se5d456f4eds64fs64f6854sefs8.daizy.workers.dev&alpn=http%2F1.1&fp=ios&type=ws&host=ehgjgt56gs4ds45d86f4es6d5841f5sx4f6se5d456f4eds64fs64f6854sefs8.daizy.workers.dev&path=%2Fldthws#PacketVPN103"
                 },
 		{
 		    "id"          : 9,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@arzdigital.com:443?encryption=none&security=tls&sni=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&alpn=http%2F1.1&fp=ios&type=ws&host=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&path=%2Fldthws#PacketVPN10" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns2.digitalocean.com:443?encryption=none&security=tls&sni=g45gf4s5g45es45sfgd5f5se46fs65fes56fse56f5esgrxd6gdrhy5rs5se4eg.fernando624.workers.dev&alpn=http%2F1.1&fp=ios&type=ws&host=g45gf4s5g45es45sfgd5f5se46fs65fes56fse56f5esgrxd6gdrhy5rs5se4eg.fernando624.workers.dev&path=%2Fldthws#PacketVPN102" 
                 },
 		{
 		    "id"          : 10,
