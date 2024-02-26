@@ -63,7 +63,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns2.digitalocean.com:443?encryption=none&security=tls&sni=g45gf4s5g45es45sfgd5f5se46fs65fes56fse56f5esgrxd6gdrhy5rs5se4eg.fernando624.workers.dev&alpn=http%2F1.1&fp=ios&type=ws&host=g45gf4s5g45es45sfgd5f5se46fs65fes56fse56f5esgrxd6gdrhy5rs5se4eg.fernando624.workers.dev&path=%2Fldthws#PacketVPN102" 
+                    "config"      : "vless://f6a53787-797f-4737-a638-bdac5bf135f8@172.67.17.230:443?encryption=none&security=tls&sni=4reg4edrg45erd4sfdg4564g654edz5fgs5dh4ej4gfj45gdhfe5dse5fdg65dg.reyna20.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=4reg4edrg45erd4sfdg4564g654edz5fgs5dh4ej4gfj45gdhfe5dse5fdg65dg.reyna20.workers.dev&path=%2Fndtgws#WS" 
                 },
 		{
 		    "id"          : 10,
