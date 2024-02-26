@@ -7,21 +7,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://55d16410-7d6b-4707-8f8d-c799b1ea706f@tapsell.ir:443?encryption=none&security=tls&sni=fsgcvhkbgfd4z6sg68xf41g654x1d56gf4v1xd56g416xd4g16x8d41g6xf41g5.spanishred34.wORkeRs.dEV&alpn=http%2F1.1&fp=ios&type=ws&host=fsgcvhkbgfd4z6sg68xf41g654x1d56gf4v1xd56g416xd4g16x8d41g6xf41g5.spanishred34.wORkeRs.dEV&path=vless-ws%2F%3Fed%3D2048#V6" 
+                    "config"      : "vless://7c46bc8e-f60d-4247-8eb6-88435eded43b@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=sdfgtr4dfs4f6s4dgd4g56sd4g5ds4g56sd4g56sd4gsd4g5ds4gs4dg56sd4g5.rabbit1.wORKerS.DeV&alpn=http%2F1.1&fp=ios&type=ws&host=sdfgtr4dfs4f6s4dgd4g56sd4g5ds4g56sd4g56sd4gsd4g5ds4gs4dg56sd4g5.rabbit1.wORKerS.DeV&path=vless-ws%2F%3Fed%3D2048#V15" 
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://14284925-e784-4e19-9746-732aa778922d@tapsell.ir:443?encryption=none&security=tls&sni=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&alpn=http%2F1.1&fp=ios&type=ws&host=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&path=vless-ws%2F%3Fed%3D2048#V13" 
+                    "config"      : "vless://739612cb-d04a-4725-9a8d-eefa36da1c1e@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=wreftgdhjgfdascvx45634dc56vx4dgv65sxg4v156szd1v65zdv165xv156xsd.korissa2.WORKErs.DEV&alpn=http%2F1.1&fp=ios&type=ws&host=wreftgdhjgfdascvx45634dc56vx4dgv65sxg4v156szd1v65zdv165xv156xsd.korissa2.WORKErs.DEV&path=vless-ws%2F%3Fed%3D2048#V16" 
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b10dca0e-1034-4b52-8687-7e43b57ccb4d@zula.ir:443?encryption=none&security=tls&sni=wdasfsd4f4rs684gfd1as64f5s64g8r41gv56sd14fsr84g86dr41gb564d1g65.bigmehrdad.workers.dev&alpn=http%2F1.1&fp=ios&type=ws&host=wdasfsd4f4rs684gfd1as64f5s64g8r41gv56sd14fsr84g86dr41gb564d1g65.bigmehrdad.workers.dev&path=%2Fpgbiws#ttt55"
+                    "config"      : "vless://1440f769-120e-41f4-8807-52a548f79c59@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=dfhjkhrfsgc564d5fg6bh4dc56g41xf6dg15xsd41hb65rd1h65cd1h65c1h5cf.deundra01.wORKeRS.dEv&alpn=http%2F1.1&fp=ios&type=ws&host=dfhjkhrfsgc564d5fg6bh4dc56g41xf6dg15xsd41hb65rd1h65cd1h65c1h5cf.deundra01.wORKeRS.dEv&path=vless-ws%2F%3Fed%3D2048#V17"
                 },
 		{
 		    "id"          : 4,
