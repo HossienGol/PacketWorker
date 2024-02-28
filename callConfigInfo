@@ -7,14 +7,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://4aa6340f-6055-496b-b67e-89a35262dbeb@wdfegrtjhgfrf5gc645f4g56s4dg56s4dg56s4d5g4ds5g4sg465sd4g65sd4gs.maximumredc5.WORkErs.dEV:443?encryption=none&security=tls&sni=wdfegrtjhgfrf5gc645f4g56s4dg56s4dg56s4d5g4ds5g4sg465sd4g65sd4gs.maximumredc5.WORkErs.dEV&alpn=http%2F1.1&fp=ios&type=ws&host=wdfegrtjhgfrf5gc645f4g56s4dg56s4dg56s4d5g4ds5g4sg465sd4g65sd4gs.maximumredc5.WORkErs.dEV&path=vless-ws%2F%3Fed%3D2048#V12" 
+                    "config"      : "vless://2df2dfb8-82c3-4486-8fd7-b2652f14fd3d@xdsfegrthyuhgfdsa4dtg586r4gtd85x4g89dc4rg84c8dg4d8c4gcd84hgc4h4.joep40.WorKeRS.deV:443?encryption=none&security=tls&sni=xdsfegrthyuhgfdsa4dtg586r4gtd85x4g89dc4rg84c8dg4d8c4gcd84hgc4h4.joep40.WorKeRS.deV&alpn=http%2F1.1&fp=randomized&type=ws&host=xdsfegrthyuhgfdsa4dtg586r4gtd85x4g89dc4rg84c8dg4d8c4gcd84hgc4h4.joep40.WorKeRS.deV&path=vless-ws%2F%3Fed%3D2048#G1" 
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://14284925-e784-4e19-9746-732aa778922d@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&alpn=http%2F1.1&fp=ios&type=ws&host=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&path=vless-ws%2F%3Fed%3D2048#V13" 
+                    "config"      : "vless://187a0ac8-6dcb-4f58-8b0b-920470463534@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=kjlpkgtesd68a4gh85s4rf8g56x4dg65xsd41fezsd41g65xs4d1g64x1dgv41s.elfrida-ef9.WoRKERS.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=kjlpkgtesd68a4gh85s4rf8g56x4dg65xsd41fezsd41g65xs4d1g64x1dgv41s.elfrida-ef9.WoRKERS.DEV&path=vless-ws%2F%3Fed%3D2048#V1" 
                 },
 		{
 		    "id"          : 3,
