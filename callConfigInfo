@@ -35,7 +35,7 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-		    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns2.digitalocean.com:443?encryption=none&security=tls&sni=vdfgjtseda45dfw231g4r8eswe14tt651sedad4f8gh56f1sd54f85g12deaw54.rus1.workers.dev&alpn=http%2F1.1&fp=edge&type=ws&host=vdfgjtseda45dfw231g4r8eswe14tt651sedad4f8gh56f1sd54f85g12deaw54.rus1.workers.dev&path=%2Fldthws#Packet%20VPN5"
+		    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns3.digitalocean.com:443?encryption=none&security=tls&sni=wdafsgdhf4fes564f8sezd4f86s4f8sed4fs4ef84s8f4se84gts8e4tg8r4tg8.romie3.workers.dev&alpn=http%2F1.1&fp=ios&type=ws&host=wdafsgdhf4fes564f8sezd4f86s4f8sed4fs4ef84s8f4se84gts8e4tg8r4tg8.romie3.workers.dev&path=%2Fldthws#PacketVPN100"
                 }, 
 		{
 		    "id"          : 6,
@@ -63,7 +63,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://f6a53787-797f-4737-a638-bdac5bf135f8@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=dsafhkli4uyt6ew4sd5fg4g65s4fdg15b6zf41sgd24gb15df24j1ny5fg21jn5.averie3.workers.dev&alpn=http%2F1.1&fp=qq&type=ws&host=dsafhkli4uyt6ew4sd5fg4g65s4fdg15b6zf41sgd24gb15df24j1ny5fg21jn5.averie3.workers.dev&path=%2Fndtgws#WS4" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns1.digitalocean.com:443?encryption=none&security=tls&sni=qswdafghfgfwakjdklsajdklasjdklsajdklsajdklsajdlksakdsa453d4sa55.glenisha0.workers.dev&alpn=http%2F1.1&fp=ios&type=ws&host=qswdafghfgfwakjdklsajdklasjdklsajdklsajdklsajdlksakdsa453d4sa55.glenisha0.workers.dev&path=%2Fldthws#PacketVPN101" 
                 },
 		{
 		    "id"          : 10,
