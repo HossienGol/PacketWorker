@@ -22,7 +22,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://673c6617-3610-487a-b51b-4f31927eec52@ns3.digitalocean.com:443?encryption=none&security=tls&sni=esrdtfygjuhdsawedfshgds4f6g5x4dsfv86sdx4g68dx4f86sx5d4g6xd4g6d8.alexanderb4.wOrkeRS.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=esrdtfygjuhdsawedfshgds4f6g5x4dsfv86sdx4g68dx4f86sx5d4g6xd4g6d8.alexanderb4.wOrkeRS.dEv&path=vless-ws%2F%3Fed%3D2048#V2"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRMUiIsDQogICJhZGQiOiAibnMxLmRpZ2l0YWxvY2Vhbi5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNTU1ZmNkZmItNTc4Ni00M2Y3LWI5ZGUtOTY1MGI0ZjYyOGQ2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiNHJlZzRlZHJnNDVlcmQ0c2ZkZzQ1NjRnNjU0ZWR6NWZnczVkaDRlajRnZmo0NWdkaGZlNWRzZTVmZGc2NWRnLnJleW5hMjAud29ya2Vycy5kZXYiLA0KICAicGF0aCI6ICIvaWlubHZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICI0cmVnNGVkcmc0NWVyZDRzZmRnNDU2NGc2NTRlZHo1ZmdzNWRoNGVqNGdmajQ1Z2RoZmU1ZHNlNWZkZzY1ZGcucmV5bmEyMC53b3JrZXJzLmRldiIsDQogICJhbHBuIjogImh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbWl6ZWQiDQp9"
                 },
 		{
 		    "id"          : 4,
