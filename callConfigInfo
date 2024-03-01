@@ -14,7 +14,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRMUjIiLA0KICAiYWRkIjogIm5zMi5kaWdpdGFsb2NlYW4uY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjU1NWZjZGZiLTU3ODYtNDNmNy1iOWRlLTk2NTBiNGY2MjhkNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVyaGZnZmFzZGZnZmFkNTRzejFkY3YyNGQxY3MyMzFmYzU2ZWRzMmYxYzVkczJmMWM1ZHMyMWM1c2QyMWNzZC5yYWdoYXYxMC53b3JrZXJzLmRldiIsDQogICJwYXRoIjogIi9paW5sdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImVyaGZnZmFzZGZnZmFkNTRzejFkY3YyNGQxY3MyMzFmYzU2ZWRzMmYxYzVkczJmMWM1ZHMyMWM1c2QyMWNzZC5yYWdoYXYxMC53b3JrZXJzLmRldiIsDQogICJhbHBuIjogImh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbWl6ZWQiDQp9"
+                    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@repo.steampowered.com:443?encryption=none&security=tls&sni=efsgdrhftyjhkbgfdsa4zfgxc45bdg54dxg54dcg45d45f45dg45fdg45fdg45f.karah4.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=efsgdrhftyjhkbgfdsa4zfgxc45bdg54dxg54dcg45d45f45dg45fdg45fdg45f.karah4.workers.dev&path=%2Ftpqnws#TE1"
  
                 },
 		{
