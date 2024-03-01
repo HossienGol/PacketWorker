@@ -7,7 +7,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@www.speedtest.net:443?encryption=none&security=tls&sni=worker-silent-bird-4c77.ernestine823.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=worker-silent-bird-4c77.ernestine823.workers.dev&path=%2Ftpqnws#TE"
+                    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@fgdjygfsds4g6465x4g5s64g64g98dr4g89dr4g98dr4g98d4g894f8g94fd89g.constana.workers.dev:443?encryption=none&security=tls&sni=fgdjygfsds4g6465x4g5s64g64g98dr4g89dr4g98dr4g98d4g894f8g94fd89g.constana.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=fgdjygfsds4g6465x4g5s64g64g98dr4g89dr4g98dr4g98d4g894f8g94fd89g.constana.workers.dev&path=%2Ftpqnws#TE2"
                 },
 		{
 		    "id"          : 2,
