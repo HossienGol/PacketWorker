@@ -78,7 +78,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://VJX8t1t50B@gcore.com:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=mihan.com&path=%2F#H2" 
+                    "config"      : "trojan://cW0lVRL2fA@gcore.com:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fasa.com&path=%2F#H1" 
                 }
 	
 		
