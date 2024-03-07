@@ -71,14 +71,14 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "trojan://2E1RPpsTm9@gcore.com:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=fars.de&path=%2F#H11" 
+                    "config"      : "trojan://2E1RPpsTm9@gcore.com:443?security=tls&sni=8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=fars.de&path=%2F#H111" 
                 },
 		{
 		    "id"          : 11,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://t8U94TjqaQ@gcore.com:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fars.eu&path=%2F#H222" 
+                    "config"      : "trojan://2E1RPpsTm9@gcore.com:443?security=tls&sni=8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=fars.de&path=%2F#H111" 
                 }
 	
 		
