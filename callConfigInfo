@@ -78,7 +78,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://2E1RPpsTm9@gcore.com:443?security=tls&sni=10.10.34.36&alpn=http%2F1.1&fp=randomized&type=ws&host=fars.de&path=%2F#H2448" 
+                    "config"      : "trojan://2E1RPpsTm9@cloudfire.ir:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=fars.de&path=%2F#H2448" 
                 }
 	
 		
