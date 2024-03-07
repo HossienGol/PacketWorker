@@ -78,7 +78,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://t8U94TjqaQ@gcore.com:443?flow=xtls-rprx-vision&security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=fars.eu&path=%2F#H22" 
+                    "config"      : "trojan://t8U94TjqaQ@gcore.com:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fars.eu&path=%2F#H222" 
                 }
 	
 		
