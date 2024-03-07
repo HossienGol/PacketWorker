@@ -78,7 +78,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://2E1RPpsTm9@gcore.com:443?security=tls&sni=2001:4860:4860::8888&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=fars.de&path=%2F#MMMM" 
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkg3NzciLA0KICAiYWRkIjogImdjb3JlLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxNGM4MmMzZC1iNDA1LTQ5YTItYWU4MS05N2Q2ZGI1OGVkMzEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmYXJzLmV1IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIxMC4xMC4zNC4zNiIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbWl6ZWQiDQp9" 
                 }
 	
 		
