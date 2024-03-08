@@ -7,14 +7,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@repo.steampowered.com:443?encryption=none&security=tls&sni=efsgdrhftyjhkbgfdsa4zfgxc45bdg54dxg54dcg45d45f45dg45fdg45fdg45f.karah4.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=efsgdrhftyjhkbgfdsa4zfgxc45bdg54dxg54dcg45d45f45dg45fdg45fdg45f.karah4.workers.dev&path=%2Ftpqnws#TE1"
+                    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@www.speedtest.net:443?encryption=none&security=tls&sni=worker-silent-bird-4c77.ernestine823.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=worker-silent-bird-4c77.ernestine823.workers.dev&path=%2Ftpqnws#TE2"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=hgj134fsx5d41hg56fd1h56gxf1g56sd1g56d4h684d864h6fd4g56f4dg56f4g.romualdo51.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=hgj134fsx5d41hg56fd1h56gxf1g56sd1g56d4h684d864h6fd4g56f4dg56f4g.romualdo51.workers.dev&path=%2Ftpqnws#TE3"
+                    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@ns3.digitalocean.com:443?encryption=none&security=tls&sni=jfdshfjshdjkfhdsfds4f5sd4f1ds354f5s64f5sd41f5sd456f4ds64fs6d4fs.dong5.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=jfdshfjshdjkfhdsfds4f5sd4f1ds354f5s64f5sd41f5sd456f4ds64fs6d4fs.dong5.workers.dev&path=%2Ftpqnws#TE7"
  
                 },
 		{
@@ -36,7 +36,7 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-		    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@23s1z5fd4sf45d4f2d1c23ds15g4d5g12d31g23dsg5sd1g51ds2123s1g23s1d.alyssa01.workers.dev:443?encryption=none&security=tls&sni=23s1z5fd4sf45d4f2d1c23ds15g4d5g12d31g23dsg5sd1g51ds2123s1g23s1d.alyssa01.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=23s1z5fd4sf45d4f2d1c23ds15g4d5g12d31g23dsg5sd1g51ds2123s1g23s1d.alyssa01.workers.dev&path=%2Ftpqnws#TE4"
+		    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@cloudflare.net:443?encryption=none&security=tls&sni=adfsxgcvhbmjnhgfd6ag45hgh4jg8fsd4153fxgd4fc86fs4fsg6hcj4g684h86.amadi0.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=adfsxgcvhbmjnhgfd6ag45hgh4jg8fsd4153fxgd4fc86fs4fsg6hcj4g684h86.amadi0.workers.dev&path=%2Ftpqnws#TE8"
                 }, 
 		{
 		    "id"          : 6,
