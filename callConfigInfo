@@ -78,7 +78,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://HduNXuBNEA@gcore.com:443?security=tls&sni=95.104.9.122&alpn=http%2F1.1&fp=randomized&type=ws&host=qom.com&path=%2F#Singa11" 
+                    "config"      : "trojan://HduNXuBNEA@gcore.com:443?security=tls&sni=2606:4700:4700::1111&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=qom.com&path=%2F#Singa13" 
                 }
 	
 		
