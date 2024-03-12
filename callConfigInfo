@@ -33,10 +33,10 @@
                 },
 		{
 		    "id"          : 5,
-                    "symbol"      : "UK",
-                    "countryName" : "United Kingdom",
+                    "symbol"      : "FR",
+                    "countryName" : "France",
                     "ping"        : 0,
-		    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@cloudflare.net:443?encryption=none&security=tls&sni=23s1z5fd4sf45d4f2d1c23ds15g4d5g12d31g23dsg5sd1g51ds2123s1g23s1d.alyssa01.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=23s1z5fd4sf45d4f2d1c23ds15g4d5g12d31g23dsg5sd1g51ds2123s1g23s1d.alyssa01.workers.dev&path=%2Ftpqnws#TE4"
+		    "config"      : "vless://97fb9e09-a699-430f-c3c9-33d6c4236219@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=452fb6478837d698874cb3a8d78d8855b0729120452fb6478837d698874c25b.tech&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=452fb6478837d698874cb3a8d78d8855b0729120452fb6478837d698874c25b.tech&path=%2F#Test"
                 }, 
 		{
 		    "id"          : 6,
@@ -78,7 +78,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://Za76BG0wXY@gcore.com:443?security=tls&sni=2606:4700:4700::1111&alpn=h2&fp=randomized&type=ws&host=fars.de&path=%2F#T2" 
+                    "config"      : "vless://97fb9e09-a699-430f-c3c9-33d6c4236219@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=452fb6478837d698874cb3a8d78d8855b0729120452fb6478837d698874c25b.tech&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=452fb6478837d698874cb3a8d78d8855b0729120452fb6478837d698874c25b.tech&path=%2F#Test" 
                 }
 	
 		
