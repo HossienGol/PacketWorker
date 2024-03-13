@@ -78,7 +78,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://97fb9e09-a699-430f-c3c9-33d6c4236219@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=452fb6478837d698874cb3a8d78d8855b0729120452fb6478837d698874c25b.tech&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=452fb6478837d698874cb3a8d78d8855b0729120452fb6478837d698874c25b.tech&path=%2F#Test" 
+                    "config"      : "trojan://gvBT9OXQDb@gcore.com:443?security=tls&sni=2606:4700:4700::1111&alpn=h2&fp=randomized&type=ws&host=qom.com&path=%2F#Ger" 
                 }
 	
 		
