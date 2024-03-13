@@ -36,7 +36,7 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-		    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=adfsxgcvhbmjnhgfd6ag45hgh4jg8fsd4153fxgd4fc86fs4fsg6hcj4g684h86.amadi0.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=adfsxgcvhbmjnhgfd6ag45hgh4jg8fsd4153fxgd4fc86fs4fsg6hcj4g684h86.amadi0.workers.dev&path=%2Ftpqnws#TE8"
+		    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@pkg.cloudflareclient.com:443?encryption=none&security=tls&sni=23s1z5fd4sf45d4f2d1c23ds15g4d5g12d31g23dsg5sd1g51ds2123s1g23s1d.alyssa01.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=23s1z5fd4sf45d4f2d1c23ds15g4d5g12d31g23dsg5sd1g51ds2123s1g23s1d.alyssa01.workers.dev&path=%2Ftpqnws#TE4"
                 }, 
 		{
 		    "id"          : 6,
