@@ -43,7 +43,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@www.speedtest.net:443?encryption=none&security=tls&sni=ehgjgt56gs4ds45d86f4es6d5841f5sx4f6se5d456f4eds64fs64f6854sefs8.daizy.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=ehgjgt56gs4ds45d86f4es6d5841f5sx4f6se5d456f4eds64fs64f6854sefs8.daizy.workers.dev&path=%2Fldthws#PacketVPN103" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@www.speedtest.net:443?encryption=none&security=tls&sni=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&path=%2Fldthws#PacketVPN10" 
                 },
 		{
 		    "id"          : 7,
@@ -57,14 +57,14 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=dwfsghdwrds6d6sd68s4d5sa456a45d4s5ad45sa54d5a4d45ad45sa45das4d5.charito.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=dwfsghdwrds6d6sd68s4d5sa456a45d4s5ad45sa54d5a4d45ad45sa45das4d5.charito.workers.dev&path=%2Fldthws#PacketVPN104"
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns1.digitalocean.com:443?encryption=none&security=tls&sni=sfashaghdgbsjabdjksad5sa256d486s4sa1c564sw98de48sf4eds4c6sac5xz.b4e2fb38a2.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=sfashaghdgbsjabdjksad5sa256d486s4sa1c564sw98de48sf4eds4c6sac5xz.b4e2fb38a2.workers.dev&path=%2Fldthws#PacketVPN9"
                 },
 		{
 		    "id"          : 9,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@cloudflare.net:443?encryption=none&security=tls&sni=wqsdfghj456r4fes5684ef86rd4j1gy561j46dtg146se4g5f4564jhg564kj5h.keano0.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=wqsdfghj456r4fes5684ef86rd4j1gy561j46dtg146se4g5f4564jhg564kj5h.keano0.workers.dev&path=%2Fldthws#PacketVPN105" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns2.digitalocean.com:443?encryption=none&security=tls&sni=vdfgjtseda45dfw231g4r8eswe14tt651sedad4f8gh56f1sd54f85g12deaw54.rus1.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=vdfgjtseda45dfw231g4r8eswe14tt651sedad4f8gh56f1sd54f85g12deaw54.rus1.workers.dev&path=%2Fldthws#Packet%20VPN5" 
                 },
 		{
 		    "id"          : 10,
