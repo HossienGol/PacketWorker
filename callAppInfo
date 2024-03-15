@@ -2,5 +2,5 @@
       "adEnable"                : true,
       "appEnable"               : true,
       "timer"                   : 1800000,
-      "channelLink"             :"https://t.me/PacketVPNService""             
+      "channelLink"             : "https://t.me/PacketVPNService"            
 }
