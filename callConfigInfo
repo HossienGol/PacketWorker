@@ -14,7 +14,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://d1397f97-95ca-408f-afd2-fbafd94707f3@www.speedtest.net:443?encryption=none&security=tls&sni=worker-silent-bird-4c77.ernestine823.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=worker-silent-bird-4c77.ernestine823.workers.dev&path=%2Ftpqnws#TE2"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRMUjEiLA0KICAiYWRkIjogIm5zMS5kaWdpdGFsb2NlYW4uY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjU1NWZjZGZiLTU3ODYtNDNmNy1iOWRlLTk2NTBiNGY2MjhkNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRmc25oZ2Zkc2RhZmdocmZlZHdzcWl1eWh1aHVpYWR3cWFkNXdhNnNkNTQ2c2E0ZDFzYTFkNXdhZDF3YTFkNS5rZXJyaWFubmUud29ya2Vycy5kZXYiLA0KICAicGF0aCI6ICIvaWlubHZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJkZnNuaGdmZHNkYWZnaHJmZWR3c3FpdXlodWh1aWFkd3FhZDV3YTZzZDU0NnNhNGQxc2ExZDV3YWQxd2ExZDUua2Vycmlhbm5lLndvcmtlcnMuZGV2IiwNCiAgImFscG4iOiAiaHR0cC8xLjEiLA0KICAiZnAiOiAicmFuZG9taXplZCINCn0="
  
                 },
 		{
@@ -29,7 +29,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRMUiIsDQogICJhZGQiOiAiZGltaXRyaXMubnMuY2xvdWRmbGFyZS5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNTU1ZmNkZmItNTc4Ni00M2Y3LWI5ZGUtOTY1MGI0ZjYyOGQ2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiNHJlZzRlZHJnNDVlcmQ0c2ZkZzQ1NjRnNjU0ZWR6NWZnczVkaDRlajRnZmo0NWdkaGZlNWRzZTVmZGc2NWRnLnJleW5hMjAud29ya2Vycy5kZXYiLA0KICAicGF0aCI6ICIvaWlubHZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICI0cmVnNGVkcmc0NWVyZDRzZmRnNDU2NGc2NTRlZHo1ZmdzNWRoNGVqNGdmajQ1Z2RoZmU1ZHNlNWZkZzY1ZGcucmV5bmEyMC53b3JrZXJzLmRldiIsDQogICJhbHBuIjogImh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbWl6ZWQiDQp9"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRMUjIiLA0KICAiYWRkIjogIm5zMi5kaWdpdGFsb2NlYW4uY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjU1NWZjZGZiLTU3ODYtNDNmNy1iOWRlLTk2NTBiNGY2MjhkNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVyaGZnZmFzZGZnZmFkNTRzejFkY3YyNGQxY3MyMzFmYzU2ZWRzMmYxYzVkczJmMWM1ZHMyMWM1c2QyMWNzZC5yYWdoYXYxMC53b3JrZXJzLmRldiIsDQogICJwYXRoIjogIi9paW5sdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImVyaGZnZmFzZGZnZmFkNTRzejFkY3YyNGQxY3MyMzFmYzU2ZWRzMmYxYzVkczJmMWM1ZHMyMWM1c2QyMWNzZC5yYWdoYXYxMC53b3JrZXJzLmRldiIsDQogICJhbHBuIjogImh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbWl6ZWQiDQp9"
                 },
 		{
 		    "id"          : 5,
@@ -50,7 +50,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRMUjYiLA0KICAiYWRkIjogIm5zMy5kaWdpdGFsb2NlYW4uY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjU1NWZjZGZiLTU3ODYtNDNmNy1iOWRlLTk2NTBiNGY2MjhkNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRmZ2RyaGZ0Z2Z0NnJkNGY1NjRkZ3Q1NjRkZmg1NjRmZzVoNnk0ZHU0OHQ2NHUxMmYxaDIzYmYxZ2g1NnRmNC5zaGFtdXM2My53b3JrZXJzLmRldiIsDQogICJwYXRoIjogIi9paW5sdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImRmZ2RyaGZ0Z2Z0NnJkNGY1NjRkZ3Q1NjRkZmg1NjRmZzVoNnk0ZHU0OHQ2NHUxMmYxaDIzYmYxZ2g1NnRmNC5zaGFtdXM2My53b3JrZXJzLmRldiIsDQogICJhbHBuIjogImh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbWl6ZWQiDQp9"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIldTMSIsDQogICJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTk0OWYxZmUtZWIzNC00NjI3LTgwOTYtZGU2ZTRkZTAxZWVmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAid2RhZnNnZGhmNGZlczU2NGY4c2V6ZDRmODZzNGY4c2VkNGZzNGVmODRzOGY0c2U4NGd0czhlNHRnOHI0dGc4LnJvbWllMy53b3JrZXJzLmRldiIsDQogICJwYXRoIjogIi9uZ29sdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIndkYWZzZ2RoZjRmZXM1NjRmOHNlemQ0Zjg2czRmOHNlZDRmczRlZjg0czhmNHNlODRndHM4ZTR0ZzhyNHRnOC5yb21pZTMud29ya2Vycy5kZXYiLA0KICAiYWxwbiI6ICJodHRwLzEuMSIsDQogICJmcCI6ICJyYW5kb21pemVkIg0KfQ=="
                 },
 		{
 		    "id"          : 8,
