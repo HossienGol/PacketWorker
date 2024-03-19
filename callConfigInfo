@@ -57,7 +57,7 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns1.digitalocean.com:443?encryption=none&security=tls&sni=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&path=%2Fldthws#PacketVPN10"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIldTNyIsDQogICJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTk0OWYxZmUtZWIzNC00NjI3LTgwOTYtZGU2ZTRkZTAxZWVmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAieGJnY25odmpia2poZ2Zkc2E0NjVnaDRoZzVmNGRzOGc0aHRmeTh0NHI4ZjZkNDVnNDVkNGc1ZHg0ZzU2NGQ1LmRhaWpvbjQzLndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiL25nb2x2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAieGJnY25odmpia2poZ2Zkc2E0NjVnaDRoZzVmNGRzOGc0aHRmeTh0NHI4ZjZkNDVnNDVkNGc1ZHg0ZzU2NGQ1LmRhaWpvbjQzLndvcmtlcnMuZGV2IiwNCiAgImFscG4iOiAiaHR0cC8xLjEiLA0KICAiZnAiOiAicmFuZG9taXplZCINCn0="
                 },
 		{
 		    "id"          : 9,
