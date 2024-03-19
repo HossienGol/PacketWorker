@@ -7,7 +7,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIldTNCIsDQogICJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTk0OWYxZmUtZWIzNC00NjI3LTgwOTYtZGU2ZTRkZTAxZWVmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGF6c2Ruc2FramRtbGtzYWRzYTY1ZDRhNGQ4YXM0ZDVhczRkYTRkOGExZGM0ejE0ZGNhNGQ4d2E2dzRkMTZhLmRhaXp5LndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiL25nb2x2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZGF6c2Ruc2FramRtbGtzYWRzYTY1ZDRhNGQ4YXM0ZDVhczRkYTRkOGExZGM0ejE0ZGNhNGQ4d2E2dzRkMTZhLmRhaXp5LndvcmtlcnMuZGV2IiwNCiAgImFscG4iOiAiaHR0cC8xLjEiLA0KICAiZnAiOiAicmFuZG9taXplZCINCn0="
+                    "config"      : "vless://cfe3a3ff-ee25-4729-93c2-dbe01cf38885@www.speedtest.net:443?encryption=none&security=tls&sni=wdsfehjugyftrdesdf5gf4gn8g6415fd41gf23x1g23fd1g6dfg1532c1g5fd4g.latora1.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=wdsfehjugyftrdesdf5gf4gn8g6415fd41gf23x1g23fd1g6dfg1532c1g5fd4g.latora1.workers.dev&path=%2Fjlcdws#BS1"
                 },
 		{
 		    "id"          : 2,
@@ -29,7 +29,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRMUjIiLA0KICAiYWRkIjogIm5zMi5kaWdpdGFsb2NlYW4uY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjU1NWZjZGZiLTU3ODYtNDNmNy1iOWRlLTk2NTBiNGY2MjhkNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVyaGZnZmFzZGZnZmFkNTRzejFkY3YyNGQxY3MyMzFmYzU2ZWRzMmYxYzVkczJmMWM1ZHMyMWM1c2QyMWNzZC5yYWdoYXYxMC53b3JrZXJzLmRldiIsDQogICJwYXRoIjogIi9paW5sdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImVyaGZnZmFzZGZnZmFkNTRzejFkY3YyNGQxY3MyMzFmYzU2ZWRzMmYxYzVkczJmMWM1ZHMyMWM1c2QyMWNzZC5yYWdoYXYxMC53b3JrZXJzLmRldiIsDQogICJhbHBuIjogImh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbWl6ZWQiDQp9"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIldTNCIsDQogICJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTk0OWYxZmUtZWIzNC00NjI3LTgwOTYtZGU2ZTRkZTAxZWVmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGF6c2Ruc2FramRtbGtzYWRzYTY1ZDRhNGQ4YXM0ZDVhczRkYTRkOGExZGM0ejE0ZGNhNGQ4d2E2dzRkMTZhLmRhaXp5LndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiL25nb2x2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZGF6c2Ruc2FramRtbGtzYWRzYTY1ZDRhNGQ4YXM0ZDVhczRkYTRkOGExZGM0ejE0ZGNhNGQ4d2E2dzRkMTZhLmRhaXp5LndvcmtlcnMuZGV2IiwNCiAgImFscG4iOiAiaHR0cC8xLjEiLA0KICAiZnAiOiAicmFuZG9taXplZCINCn0="
                 },
 		{
 		    "id"          : 5,
