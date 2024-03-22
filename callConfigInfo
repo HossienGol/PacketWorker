@@ -7,14 +7,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://cfe3a3ff-ee25-4729-93c2-dbe01cf38885@www.speedtest.net:443?encryption=none&security=tls&sni=dfegrhjgmm45645f4sf15es4f8es48f51v23f1n21m23k151.susie42.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=dfegrhjgmm45645f4sf15es4f8es48f51v23f1n21m23k151.susie42.workers.dev&path=%2Fjlcdws#BS15"
+                    "config"      : "vless://cfe3a3ff-ee25-4729-93c2-dbe01cf38885@www.speedtest.net:443?encryption=none&security=tls&sni=vzdf8s7f45es4g5r4h8t48h64f6q4e5q4rsw4r54sgrd31gb23d1g5dg153d1g5.rosmery151.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=vzdf8s7f45es4g5r4h8t48h64f6q4e5q4rsw4r54sgrd31gb23d1g5dg153d1g5.rosmery151.workers.dev&path=%2Fjlcdws#BS16"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://e949f1fe-eb34-4627-8096-de6e4de01eef@www.speedtest.net:443?encryption=none&security=tls&sni=wdafsgdhf4fes564f8sezd4f86s4f8sed4fs4ef84s8f4se84gts8e4tg8r4tg8.romie3.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=wdafsgdhf4fes564f8sezd4f86s4f8sed4fs4ef84s8f4se84gts8e4tg8r4tg8.romie3.workers.dev&path=%2Fngolws#WS11"
+                    "config"      : "vless://e949f1fe-eb34-4627-8096-de6e4de01eef@www.speedtest.net:443?encryption=none&security=tls&sni=dryhb5fd7g48es4fds1h6fyk46hi5oui5j6tr5gvcs2c6d4h9y45l6i20m3h2n8.fernando624.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=dryhb5fd7g48es4fds1h6fyk46hi5oui5j6tr5gvcs2c6d4h9y45l6i20m3h2n8.fernando624.workers.dev&path=%2Fngolws#WS13"
  
                 },
 		{
