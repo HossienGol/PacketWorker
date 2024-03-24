@@ -22,14 +22,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://cfe3a3ff-ee25-4729-93c2-dbe01cf38885@ns2.digitalocean.com:443?encryption=none&security=tls&sni=zsfz7df4768e4651asz2f18ea4faz1f2ds1g2fd1h5f4kj53f4j3d1g2s121gss.rus1.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=zsfz7df4768e4651asz2f18ea4faz1f2ds1g2fd1h5f4kj53f4j3d1g2s121gss.rus1.workers.dev&path=%2Fjlcdws#BS10"
+                    "config"      : "vless://cfe3a3ff-ee25-4729-93c2-dbe01cf38885@ns3.digitalocean.com:443?encryption=none&security=tls&sni=dfegrhjgmm45645f4sf15es4f8es48f51v23f1n21m23k151.susie42.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=dfegrhjgmm45645f4sf15es4f8es48f51v23f1n21m23k151.susie42.workers.dev&path=%2Fjlcdws#BS15"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://e949f1fe-eb34-4627-8096-de6e4de01eef@www.speedtest.net:443?encryption=none&security=tls&sni=dcsz1c2dzs4f8s54fs21c23d1zsc5s4z1c53z1c5s1c5sz1cs31c5b1f5f1b51n.charito.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=dcsz1c2dzs4f8s54fs21c23d1zsc5s4z1c53z1c5s1c5sz1cs31c5b1f5f1b51n.charito.workers.dev&path=%2Fngolws#WS7"
+                    "config"      : "vless://e949f1fe-eb34-4627-8096-de6e4de01eef@www.speedtest.net:443?encryption=none&security=tls&sni=fsdz4g15sd74g86ez1fc2sz1fv8d4gsz1czs21vse4g1vz31vs4hf5m41khj1l6.glenisha0.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=fsdz4g15sd74g86ez1fc2sz1fv8d4gsz1czs21vse4g1vz31vs4hf5m41khj1l6.glenisha0.workers.dev&path=%2Fngolws#WS12"
                 },
 		{
 		    "id"          : 5,
