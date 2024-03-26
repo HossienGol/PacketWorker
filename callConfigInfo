@@ -57,7 +57,7 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://e949f1fe-eb34-4627-8096-de6e4de01eef@www.speedtest.net:443?encryption=none&security=tls&sni=sdfhgjgrfewas54dgfb56c18rdg498efs4g8d7f48sd1fnhg5j4i8ku54jn1h5s.keano0.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=sdfhgjgrfewas54dgfb56c18rdg498efs4g8d7f48sd1fnhg5j4i8ku54jn1h5s.keano0.workers.dev&path=%2Fngolws#WS8"
+                    "config"      : "vless://d2bec5db-5482-4ffd-b75c-1ca443f3868a@nS2.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=dfghjiuy76t54er7wq845as32dgi4uhy8gts5dad1cvfb6gv5h4f1dfs6a5dsxf.roselyf3.WorKErS.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=dfghjiuy76t54er7wq845as32dgi4uhy8gts5dad1cvfb6gv5h4f1dfs6a5dsxf.roselyf3.WorKErS.dEv&path=%2Fuhkgws#VL6"
                 },
 		{
 		    "id"          : 9,
@@ -78,7 +78,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://R6O4MVIl5v@gcore.com:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=imamkhomaini02.dog&path=%2F#MO2" 
+                    "config"      : "vless://d2bec5db-5482-4ffd-b75c-1ca443f3868a@nS3.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=g5dx4g84gf6d1b64jn8t4h5fd1b5fd1bd4b65f4dh564tfg1j54fg5j4f54j5f4.ajanaec4.WorKErS.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=g5dx4g84gf6d1b64jn8t4h5fd1b5fd1bd4b65f4dh564tfg1j54fg5j4f54j5f4.ajanaec4.WorKErS.dEv&path=%2Fuhkgws#VL5" 
                 }
 	
 		
