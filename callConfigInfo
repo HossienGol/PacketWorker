@@ -50,7 +50,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://cfe3a3ff-ee25-4729-93c2-dbe01cf38885@ns1.digitalocean.com:443?encryption=none&security=tls&sni=fsdfesf4e64f8e6s4f86e4wf86we4fe54f6we4fe4f5e6w4f6we4f6ew4f5e64f.raygen42.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=fsdfesf4e64f8e6s4f86e4wf86we4fe54f6we4fe4f5e6w4f6we4f6ew4f5e64f.raygen42.workers.dev&path=%2Fjlcdws#BS5"
+                    "config"      : "vless://d2bec5db-5482-4ffd-b75c-1ca443f3868a@nS1.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=wdasfhgtfrdeswq84edrs23gfv1ef41sdg65tdg1f65ed1gb65df1bgf5d1b2gb.yussef41.WorKErS.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=wdasfhgtfrdeswq84edrs23gfv1ef41sdg65tdg1f65ed1gb65df1bgf5d1b2gb.yussef41.WorKErS.dEv&path=%2Fuhkgws#VL10"
                 },
 		{
 		    "id"          : 8,
@@ -64,7 +64,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://cfe3a3ff-ee25-4729-93c2-dbe01cf38885@ns1.digitalocean.com:443?encryption=none&security=tls&sni=fsd4fd8w6a4f564hy5tf4j5g4ki86ug4hjngf3cb1ds351vs354gv5d4g534d4g.rodgers.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=fsd4fd8w6a4f564hy5tf4j5g4ki86ug4hjngf3cb1ds351vs354gv5d4g534d4g.rodgers.workers.dev&path=%2Fjlcdws#BS9" 
+                    "config"      : "vless://cfe3a3ff-ee25-4729-93c2-dbe01cf38885@ns1.digitalocean.com:443?encryption=none&security=tls&sni=fsdfesf4e64f8e6s4f86e4wf86we4fe54f6we4fe4f5e6w4f6we4f6ew4f5e64f.raygen42.workers.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=fsdfesf4e64f8e6s4f86e4wf86we4fe54f6we4fe4f5e6w4f6we4f6ew4f5e64f.raygen42.workers.dev&path=%2Fjlcdws#BS5" 
                 },
 		{
 		    "id"          : 10,
