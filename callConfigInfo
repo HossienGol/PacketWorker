@@ -71,14 +71,14 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "trojan://R6O4MVIl5v@gcore.com:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=imamkhomaini02.dog&path=%2F#MO2" 
+                    "config"      : "trojan://K04BAVBygt@WwW.gCoRE.cOm:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ImaMKhOmainI04.dog&path=%2F#MO1" 
                 },
 		{
 		    "id"          : 11,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://K04BAVBygt@WwW.gCoRE.cOm:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ImaMKhOmainI04.dog&path=%2F#MO1" 
+                    "config"      : "vless://a48d99b9-b071-4344-b83e-e37e1dee7fe8@nS3.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=dsfghjkl784hg56fds41ghj8k6g5h4f1bg56c4gkm18g6h5h418fg56h41mf856.sam2-02c.WorKErS.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=dsfghjkl784hg56fds41ghj8k6g5h4f1bg56c4gkm18g6h5h418fg56h41mf856.sam2-02c.WorKErS.dEv&path=%2Fctzqws#VLJ11" 
                 }
 	
 		
