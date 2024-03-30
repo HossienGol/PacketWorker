@@ -14,7 +14,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://e949f1fe-eb34-4627-8096-de6e4de01eef@nS3.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=dcsz1c2dzs4f8s54fs21c23d1zsc5s4z1c53z1c5s1c5sz1cs31c5b1f5f1b51n.charito.worKErS.deV&alpn=http%2F1.1&fp=randomized&type=ws&host=dcsz1c2dzs4f8s54fs21c23d1zsc5s4z1c53z1c5s1c5sz1cs31c5b1f5f1b51n.charito.worKErS.deV&path=%2Fngolws#WS7"
+                    "config"      : "vless://e949f1fe-eb34-4627-8096-de6e4de01eef@nS3.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=sdfghbgdfseawdfs6gd4f8d74szxc21n5yfg4j156gf416sa54d15wacs2z1dc5.shamus63.worKErS.deV&alpn=http%2F1.1&fp=randomized&type=ws&host=sdfghbgdfseawdfs6gd4f8d74szxc21n5yfg4j156gf416sa54d15wacs2z1dc5.shamus63.worKErS.deV&path=%2Fngolws#WS10"
  
                 },
 		{
@@ -29,7 +29,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://e949f1fe-eb34-4627-8096-de6e4de01eef@nS3.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=dszlxcdscsdcs13c24sd8z4c3zs1c2sz1ce5s4c1sz1c2xz1c5dsza4c132z1cz.daizy.worKErS.deV&alpn=http%2F1.1&fp=randomized&type=ws&host=dszlxcdscsdcs13c24sd8z4c3zs1c2sz1ce5s4c1sz1c2xz1c5dsza4c132z1cz.daizy.worKErS.deV&path=%2Fngolws#WS6"
+                    "config"      : "vless://e949f1fe-eb34-4627-8096-de6e4de01eef@nS3.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=wdafsgdhf4fes564f8sezd4f86s4f8sed4fs4ef84s8f4se84gts8e4tg8r4tg8.romie3.worKErS.deV&alpn=http%2F1.1&fp=randomized&type=ws&host=wdafsgdhf4fes564f8sezd4f86s4f8sed4fs4ef84s8f4se84gts8e4tg8r4tg8.romie3.worKErS.deV&path=%2Fngolws#WS11"
                 },
 		{
 		    "id"          : 5,
