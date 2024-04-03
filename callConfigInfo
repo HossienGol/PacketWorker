@@ -29,7 +29,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://bad9b81c-8366-4c6b-a9f4-a1fe96169c7a@nS1.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=adfshg56s4x56a4d8s64g86h58f4kjf4s56t4g6r4h651gds54fgsd4g56f4dg5.hikari-c45.workERS.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=adfshg56s4x56a4d8s64g86h58f4kjf4s56t4g6r4h651gds54fgsd4g56f4dg5.hikari-c45.workERS.dEv&path=vless-ws%2F%3Fed%3D2048#V35"
+                    "config"      : "vless://059a8cdc-8709-4867-8d15-8233e404b11d@nS2.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=48654165216l541d865sjf41kfy65a4f1gsh6fdgur4h16f5d4j16gf54m16g5n.sabra-1de.wORkerS.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=48654165216l541d865sjf41kfy65a4f1gsh6fdgur4h16f5d4j16gf54m16g5n.sabra-1de.wORkerS.dEv&path=%2Frarkws#VLU5"
                 },
 		{
 		    "id"          : 5,
