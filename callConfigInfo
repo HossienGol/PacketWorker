@@ -50,7 +50,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://96210097-1720-4928-a216-f70f1d43d8c5@nS3.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=sdfcgvhgfdfsgdh4564hgsf4kh6r4a4tg56dg15q5dafs5e4tg56hf4h564d5h6.grante33.workeRS.Dev&alpn=http%2F1.1&fp=ios&type=ws&host=sdfcgvhgfdfsgdh4564hgsf4kh6r4a4tg56dg15q5dafs5e4tg56hf4h564d5h6.grante33.workeRS.Dev&path=vless-ws%2F%3Fed%3D2048#V20"
+                    "config"      : "trojan://MUzAOYRET2@dimitris.ns.cloudflare.com:443?security=tls&sni=N2.Pc-hUNteR.tECh&alpn=http%2F1.1&fp=randomized&type=ws&host=n1.pC-huNteR.teCH&path=%2F2531%3Fed%3D2048#test-kwpo7qz0"
                 },
 		{
 		    "id"          : 8,
