@@ -57,7 +57,7 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://d0df2054-4918-43b4-8883-ff38d732ab26@nS1.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=uejskdhiglkhtrjflmjryfhk4y6t54gf18hdf6g54k1jh8s6a4f1gh8df6g5h4t.danae22.wORkeRS.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=uejskdhiglkhtrjflmjryfhk4y6t54gf18hdf6g54k1jh8s6a4f1gh8df6g5h4t.danae22.wORkeRS.DEV&path=vless-ws%2F%3Fed%3D2048#V46"
+                    "config"      : "vless://059a8cdc-8709-4867-8d15-8233e404b11d@nS1.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=fegrmdklafsghjhgf4tf1d5asd45fhj865sad1fg6hn5fg4d1gsf6sg5hmf41g6.maddy-55e.wORkeRS.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=fegrmdklafsghjhgf4tf1d5asd45fhj865sad1fg6hn5fg4d1gsf6sg5hmf41g6.maddy-55e.wORkeRS.DEV&path=%2Frarkws#VLU2"
                 },
 		{
 		    "id"          : 9,
