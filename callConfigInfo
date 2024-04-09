@@ -57,14 +57,14 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://059a8cdc-8709-4867-8d15-8233e404b11d@nS1.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=idlsakfhngkljsalkgmfsdhb15sdg486s4f1v5dz4gbhd86h4b1sd5h4bd8f6h4.temeshaa41.wORkeRS.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=idlsakfhngkljsalkgmfsdhb15sdg486s4f1v5dz4gbhd86h4b1sd5h4bd8f6h4.temeshaa41.wORkeRS.DEV&path=%2Frarkws#VLU7"
+                    "config"      : "vless://4b177604-84fe-42ba-a7de-d7d5660d50b8@nS3.diGitAloCEan.CoM:8880?encryption=none&security=none&type=ws&host=happy.mappy.new.1403.rooz.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2Freza#Test"
                 },
 		{
 		    "id"          : 9,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://059a8cdc-8709-4867-8d15-8233e404b11d@nS1.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=wesgdfdresfgdgthfg4h65df41h8t6d4g164hn1td6f41s6fjmkgjh541m6fn41.ariston-84.wORkeRS.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=wesgdfdresfgdgthfg4h65df41h8t6d4g164hn1td6f41s6fjmkgjh541m6fn41.ariston-84.wORkeRS.DEV&path=%2Frarkws#VLU8" 
+                    "config"      : "vless://4b177604-84fe-42ba-a7de-d7d5660d50b8@nS3.diGitAloCEan.CoM:8880?encryption=none&security=none&type=ws&host=happy.mappy.new.1403.rooz.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2Freza#Test" 
                 },
 		{
 		    "id"          : 10,
