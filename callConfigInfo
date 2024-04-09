@@ -36,7 +36,7 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-		    "config"      : "vless://23f71359-3346-4b67-9746-18b1c6682db8@nS1.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=465a4f8g64h86rd4g8j645ik86pu48ou6y4hg5s6f1es8654rf8es4tgr85d1g8.shaelyn30.wOrKers.DeV&alpn=http%2F1.1&fp=randomized&type=ws&host=465a4f8g64h86rd4g8j645ik86pu48ou6y4hg5s6f1es8654rf8es4tgr85d1g8.shaelyn30.wOrKers.DeV&path=%2Ftthews#VLU%282%292"
+		    "config"      : "vless://23f71359-3346-4b67-9746-18b1c6682db8@nS2.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=egshb8fg74h89rs45gfs6e2g5j4yu87k4i89erdg4w9saf89gdh4ng654m8kghj.tristian.WorkERS.Dev&alpn=http%2F1.1&fp=randomized&type=ws&host=egshb8fg74h89rs45gfs6e2g5j4yu87k4i89erdg4w9saf89gdh4ng654m8kghj.tristian.WorkERS.Dev&path=%2Ftthews#VLU%282%293"
                 }, 
 		{
 		    "id"          : 6,
