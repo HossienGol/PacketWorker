@@ -7,7 +7,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://38c86129-c505-4a54-bf70-2b71aab8fe24@nS1.diGitAloCEan.CoM:2053?encryption=none&security=tls&sni=45As4D6s54CF6Ds4gV64FDNh6CGF41Jnmhv4Hn5zDXs4FVdz41cF64zs85d6FC4.KAmild5.woRkERs.Dev&alpn=http%2F1.1&fp=randomized&type=ws&host=45AS4D6S54CF6ds4Gv64fDnh6CgF41jnMHV4HN5Zdxs4fVdZ41cf64zs85d6FC4.KaMIld5.woRkerS.dEv&path=%2F7-WFe_56sA7M8674%3Fed%3D2048#C1"
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS1.diGitAloCEan.CoM:2053?encryption=none&security=tls&sni=mehrdad-6ut.pages.dev&fp=randomized&type=ws&host=mehrdad-6ut.pages.dev&path=%2F%3Fed%3D2048#M1"
                 },
 		{
 		    "id"          : 2,
