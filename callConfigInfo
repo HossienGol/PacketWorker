@@ -71,7 +71,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "trojan://Rphlyq5hfS@WwW.gCoRE.cOm:443?security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=shiraz-pc.com&path=%2F#MO40" 
+                    "config"      : "trojan://gDb0rCuIYZ@WwW.gCoRE.cOm:443?security=tls&sni=8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=shiraz-pc01.com&path=%2F#MO101" 
                 },
 		{
 		    "id"          : 11,
