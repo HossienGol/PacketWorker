@@ -36,7 +36,7 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-		    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS1.diGitAloCEan.CoM:2053?encryption=none&security=tls&sni=mehrdad-6ut.pages.dev&fp=randomized&type=ws&host=mehrdad-6ut.pages.dev&path=%2F%3Fed%3D2048#M1"
+		    "config"      : "vless://23f71359-3346-4b67-9746-18b1c6682db8@nS2.diGitAloCEan.CoM:443?encryption=none&security=tls&sni=465a4f8g64h86rd4g8j645ik86pu48ou6y4hg5s6f1es8654rf8es4tgr85d1g8.shaelyn30.WORkers.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=465a4f8g64h86rd4g8j645ik86pu48ou6y4hg5s6f1es8654rf8es4tgr85d1g8.shaelyn30.WORkers.DEv&path=%2Ftthews#VLU%282%292"
                 }, 
 		{
 		    "id"          : 6,
