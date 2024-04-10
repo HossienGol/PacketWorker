@@ -14,7 +14,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2494f597-b5b3-47ea-9612-5a85e71722cc@nS1.diGitAloCEan.CoM:2083?encryption=none&security=tls&sni=SAJKGFKJsGDG564RH89rD54g584RDG854s84G85Er4HG8Sr4Hg8Rs4hg8sr4G8S.kaHLEN3.WORkERS.DEV&alpn=h2&fp=randomized&type=ws&host=saJkgfkJsgDG564rh89RD54G584rdG854S84g85eR4Hg8sr4hg8rS4hg8sR4G8S.KAhLEN3.wORkerS.dEV&path=%2FZPe_t0fsuiJAVRXl%3Fed%3D2048#ed2"
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS3.diGitAloCEan.CoM:2087?encryption=none&security=tls&sni=mehrdad-6ut.pages.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=mehrdad-6ut.pages.dev&path=%2F%3Fed%3D2048#M3"
  
                 },
 		{
@@ -22,14 +22,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://87050d64-233c-4e40-91ec-44b866dc90d9@nS2.diGitAloCEan.CoM:2087?encryption=none&security=tls&sni=WeRfGdHFkdSzXDFjGsLKDjOSZFLMGLvxDg1Dc4Hr856F4Ch86gC4Fh584cg8F4H.BeDfORd.wOrKers.DeV&alpn=http%2F1.1&fp=randomized&type=ws&host=werfGdhfKDSZxdFjGslkdjOSZFlmgLvXDG1DC4Hr856F4Ch86GC4fH584CG8F4H.bEdfoRD.wOrKerS.dEv&path=%2F25GsJsw7kmCroe-x%3Fed%3D2048#ed1"
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS2.diGitAloCEan.CoM:2083?encryption=none&security=tls&sni=mehrdad-6ut.pages.dev&alpn=h2&fp=randomized&type=ws&host=mehrdad-6ut.pages.dev&path=%2F%3Fed%3D2048#M2"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://4b0d982f-2e98-4465-b5ee-3cc58dc99bcb@nS2.diGitAloCEan.CoM:2096?encryption=none&security=tls&sni=aDsfGHJzS6ad14EgTY5hS45gT1H65tF3j1Nh461TfG3h1dcf1GDR531G3D21h23.MaUvea14.woRkerS.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=adSfGhjZs6ad14EGTY5Hs45GT1H65tF3J1NH461Tfg3H1dCf1gDR531g3d21H23.mAuvEa14.woRKeRs.deV&path=%2FPkJlEgpINPBlI3Ol%3Fed%3D2048#C8"
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS2.diGitAloCEan.CoM:2096?encryption=none&security=tls&sni=mehrdad-6ut.pages.dev&fp=randomized&type=ws&host=mehrdad-6ut.pages.dev&path=%2F%3Fed%3D2048#M4"
                 },
 		{
 		    "id"          : 5,
