@@ -1,5 +1,5 @@
 {   
-    "delay"   : 500,
+    "delay"   : 3000,
     "note"    : "Welcome :)",
     "configs" : [
 		{
