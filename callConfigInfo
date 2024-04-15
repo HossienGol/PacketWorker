@@ -50,7 +50,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://23f71359-3346-4b67-9746-18b1c6682db8@ns2.digitalocean.com:443?encryption=none&security=tls&sni=sadfhjgtfredswdfhjk84hgf5sd3a4dfg5d4684651f5648654fs65dj4kgj86g.corwinf24.wORkeRS.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=sadfhjgtfredswdfhjk84hgf5sd3a4dfg5d4684651f5648654fs65dj4kgj86g.corwinf24.wORkeRS.DEV&path=%2Ftthews#VLU%282%2916"
+                    "config"      : "vless://059a8cdc-8709-4867-8d15-8233e404b11d@ns2.digitalocean.com:443?encryption=none&security=tls&sni=hsauhfakfaf45a7f498a6415a4h8t648y6j48r645s4d6a456sd4g1r8s4g86s4.fhfudhvkfd.wORkeRS.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=hsauhfakfaf45a7f498a6415a4h8t648y6j48r645s4d6a456sd4g1r8s4g86s4.fhfudhvkfd.wORkeRS.DEV&path=%2Frarkws#VLU25"
                 },
 		{
 		    "id"          : 8,
