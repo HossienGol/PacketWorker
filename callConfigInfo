@@ -71,14 +71,14 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "trojan://3rGGbb44Wm@gcore.com:443?security=tls&sni=8.8.8.8&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=shiraz-pc03.com&path=%2F#MO99" 
+                    "config"      : "trojan://3rGGbb44Wm@gCoRe.CoM.:443?security=tls&sni=10.202.10.11&alpn=h2&fp=randomized&type=ws&host=sHiRaZ-pC03.CoM.&path=%2F#MO200" 
                 },
 		{
 		    "id"          : 11,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://3rGGbb44Wm@gcore.com:443?security=tls&sni=10.10.34.36&alpn=http%2F1.1&fp=randomized&type=ws&host=shiraz-pc03.com&path=%2F#MO100" 
+                    "config"      : "trojan://3rGGbb44Wm@gCoRe.CoM.:443?security=tls&sni=10.202.10.10&alpn=h2&fp=randomized&type=ws&host=sHiRaZ-pC03.CoM.&path=%2F#MO300" 
                 }
 	
 		
