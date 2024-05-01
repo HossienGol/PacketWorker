@@ -22,14 +22,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS2.diGitAloCEan.CoM:2083?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M2"
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS2.diGitAloCEan.CoM:2083?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M2"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS1.diGitAloCEan.CoM.:2096?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M4"
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS1.diGitAloCEan.CoM.:2096?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M4"
                 },
 		{
 		    "id"          : 5,
