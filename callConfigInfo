@@ -78,7 +78,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://3rGGbb44Wm@gCoRe.CoM.:443?security=tls&sni=10.202.10.10&alpn=h2&fp=randomized&type=ws&host=sHiRaZ-pC03.CoM.&path=%2F#MO300" 
+                    "config"      : "vless://f507fe34-6b51-4203-81b3-31065ac3e6a1@nS1.diGitAloCEan.CoM.:80?encryption=none&security=none&type=ws&host=haPpY.mAppY.nEw.1403.roUae.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.stOre.&path=%2Fuae#UAE" 
                 }
 	
 		
