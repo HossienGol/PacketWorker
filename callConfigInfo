@@ -36,7 +36,7 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-		    "config"      : "trojan://ORUyjd100o@134.209.38.96:443?security=tls&sni=1.尼亞團員1尼亞團員2尼亞團員3尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞團亞團員亞團員.com.&alpn=h2&fp=randomized&type=ws&host=happy.mappy.new.1403.rooz2.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2F%3Fed%3D2048#AM7"
+		    "config"      : "vless://ef799a5d-2bf4-47d9-b853-7ba6805a06ce@146.19.215.112:443?encryption=none&security=tls&sni=2 .尼亞團員1尼 亞 團員2 尼亞 團員3尼 亞團 亞團員尼 亞團 尼亞 團 亞團員 亞團員員亞團亞團員亞團員.co m.&alpn=http%2F1.1&fp=randomized&type=tcp&headerType=http&host=fes%20wfewf%20ew%20few%2064654%2046f4w%206efew%208f6e%20wf%2059e%20wfg%205re4r65%20d.colocr%20ossing.top.#40odvqav"
                 }, 
 		{
 		    "id"          : 6,
