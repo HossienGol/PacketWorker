@@ -71,7 +71,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "trojan://3rGGbb44Wm@gCoRe.CoM:80?security=none&type=ws&host=sHiRaZ-pC03.CoM&path=%2F#MO200" 
+                    "config"      : "trojan://67Otq4AtTO@gCoRe.CoM:443?security=tls&sni=2001:4860:4860:0:0:0:0:8844&alpn=http%2F1.1&fp=randomized&type=ws&host=iran-qeshm.ir&path=%2F#Packet%2BVPN%2BTro" 
                 },
 		{
 		    "id"          : 11,
