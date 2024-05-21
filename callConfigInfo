@@ -36,7 +36,7 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-		    "config"      : "vless://ef799a5d-2bf4-47d9-b853-7ba6805a06ce@146.19.215.112:443?encryption=none&security=tls&sni=2 .尼亞團員1尼 亞 團員2 尼亞 團員3尼 亞團 亞團員尼 亞團 尼亞 團 亞團員 亞團員員亞團亞團員亞團員.co m.&alpn=http%2F1.1&fp=randomized&type=tcp&headerType=http&host=fes%20wfewf%20ew%20few%2064654%2046f4w%206efew%208f6e%20wf%2059e%20wfg%205re4r65%20d.colocr%20ossing.top.#40odvqav"
+		    "config"      : "vless://28893fbc-8a0e-414c-83f0-dd3296bac39d@www.fastly.com.:443?encryption=none&security=tls&sni=www.fastly.com.&alpn=http%2F1.1&fp=randomized&type=ws&host=xn--79qx8ba99ki81a28qfpy95inp5e.com.&path=%2Fxui#Fastly-nz5urc2q"
                 }, 
 		{
 		    "id"          : 6,
