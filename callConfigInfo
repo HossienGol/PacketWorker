@@ -36,7 +36,7 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-		    "config"      : "vless://28893fbc-8a0e-414c-83f0-dd3296bac39d@www.fastly.com.:443?encryption=none&security=tls&sni=www.fastly.com.&alpn=http%2F1.1&fp=randomized&type=ws&host=xn--79qx8ba99ki81a28qfpy95inp5e.com.&path=%2Fxui#Fastly-nz5urc2q"
+		    "config"      : "vless://e2f40fc3-2042-431e-88e4-ddb5eff87755@66.211.168.255:80?encryption=none&security=none&type=ws&host=xn--79qx8ba99ki81a28qfpy95inp5e.com.&path=%2Fxui#F22"
                 }, 
 		{
 		    "id"          : 6,
