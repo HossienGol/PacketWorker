@@ -14,7 +14,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://ORUyjd100o@134.209.38.96:443?security=tls&sni=1.尼亞團員1尼亞團員2尼亞團員3尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞團亞團員亞團員.com.&alpn=http%2F1.1&fp=randomized&type=ws&host=happy.mappy.new.1403.rooz2.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2F%3Fed%3D2048#AM7"
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@188.114.98.224:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#Mttt"
  
                 },
 		{
