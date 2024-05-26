@@ -78,14 +78,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://4f0f8f4f-2ac9-4121-a9f4-f9cf35978f25@146.19.215.112:80?encryption=none&security=none&type=tcp&headerType=none#xa798g4f" 
+                    "config"      : "vless://f3d3de7b-8ae2-43fc-e8b5-a0d4cb8bcf79@134.209.38.96:8080?encryption=none&security=none&type=tcp&headerType=none#x22fr8rfb" 
                 },
 		{
 		    "id"          : 12,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://4f0f8f4f-2ac9-4121-a9f4-f9cf35978f25@146.19.215.112:80?encryption=none&security=none&type=tcp&headerType=none#xa798g4f" 
+                    "config"      : "vless://cb3317a2-0740-433c-8e9d-a2a6598872f6@146.19.215.112:80?encryption=none&security=none&type=tcp&headerType=none#2h5od9ub" 
                 },
 		{
 		    "id"          : 13,
