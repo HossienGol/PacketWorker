@@ -1,5 +1,5 @@
 {   
-    "delay"   : 10000,
+    "delay"   : 13000,
     "note"    : "کاربران گرامی اختلال اینترنت بسیار بالا می باشد لطفا به پینگ سرور ها توجه نکنید سرورها فعال هستند",
     "configs" : [
 		{
@@ -85,7 +85,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://6c834da4-bc19-4714-855e-dfce3da5cfa7@146.19.215.112:80?encryption=none&security=none&type=tcp&headerType=none#xuwdtke3" 
+                    "config"      : "vless://d93890e1-2bc0-458a-893c-ba501a6ff966@146.19.215.112:80?encryption=none&security=none&type=tcp&headerType=none#0anb532c" 
                 },
 		{
 		    "id"          : 13,
