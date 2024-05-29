@@ -127,7 +127,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://cdc0116a-ac6c-4bfd-dd0b-851f1e070a7a@188.114.96.3:80?encryption=none&security=none&type=ws&host=hAppy.maPpy.NEw.1403.roOz1.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sToRe.&path=%2Frehjkl#96666" 
+                    "config"      : "vless://cdc0116a-ac6c-4bfd-dd0b-851f1e070a7a@188.114.96.102:80?encryption=none&security=none&type=ws&host=hAppy.maPpy.NEw.1403.roOz1.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sToRe.&path=%2Frehjkl#96666" 
                 },
 		{
 		    "id"          : 19,
