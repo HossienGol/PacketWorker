@@ -64,7 +64,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://67Otq4AtTO@92.38.142.30:80?security=none&alpn=http%2F1.1&fp=randomized&type=ws&host=iran-qeshm.ir.&path=%2F#Packet%2BVPN%2BTro" 
+                    "config"      : "vless://19c36572-620d-417a-ec7c-f1e16b7f6280@104.21.3.114:80?encryption=none&security=none&type=ws&host=happy.mappy.new.1403.ro52oz22.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2Fwesfdhgjgfesdrtfghjgfdsrewsgfhfdswasedfcgdsedxfcg#5ihx2883e" 
                 },
 		{
 		    "id"          : 10,
