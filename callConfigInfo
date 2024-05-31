@@ -43,28 +43,28 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://d7ac245b-1553-4dea-8fe0-89de3540321d@188.114.99.111:80?encryption=none&security=none&type=ws&host=happy.mappy.new.1403.rooz2.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2Fxuiht#ht-gooorj1hy" 
+                    "config"      : "vless://d7ac245b-1553-4dea-8fe0-89de3540321d@ace.ns.cloudflare.com:80?encryption=none&security=none&type=ws&host=happy.mappy.new.1403.rooz2.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2Fxuiht#ht-gooorj1hy" 
                 },
 		{
 		    "id"          : 7,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://cdc0116a-ac6c-4bfd-dd0b-851f1e070a7a@190.93.246.191:80?encryption=none&security=none&type=ws&host=hAppy.maPpy.NEw.1403.roOz1.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sToRe.&path=%2Frehjkl#96"
+                    "config"      : "vless://cdc0116a-ac6c-4bfd-dd0b-851f1e070a7a@mona.ns.cloudflare.com:80?encryption=none&security=none&type=ws&host=hAppy.maPpy.NEw.1403.roOz1.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sToRe.&path=%2Frehjkl#96"
                 },
 		{
 		    "id"          : 8,
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://cdc0116a-ac6c-4bfd-dd0b-851f1e070a7a@198.41.205.217:80?encryption=none&security=none&type=ws&host=hAppy.maPpy.NEw.1403.roOz1.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sToRe.&path=%2Frehjkl#961"
+                    "config"      : "vless://cdc0116a-ac6c-4bfd-dd0b-851f1e070a7a@hunts.ns.cloudflare.com:80?encryption=none&security=none&type=ws&host=hAppy.maPpy.NEw.1403.roOz1.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sToRe.&path=%2Frehjkl#961"
                 },
 		{
 		    "id"          : 9,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://19c36572-620d-417a-ec7c-f1e16b7f6280@104.21.3.114:80?encryption=none&security=none&type=ws&host=happy.mappy.new.1403.ro52oz22.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2Fwesfdhgjgfesdrtfghjgfdsrewsgfhfdswasedfcgdsedxfcg#5ihx2883e" 
+                    "config"      : "vless://19c36572-620d-417a-ec7c-f1e16b7f6280@lia.ns.cloudflare.com:80?encryption=none&security=none&type=ws&host=happy.mappy.new.1403.ro52oz22.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2Fwesfdhgjgfesdrtfghjgfdsrewsgfhfdswasedfcgdsedxfcg#5ihx2883e" 
                 },
 		{
 		    "id"          : 10,
