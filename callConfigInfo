@@ -7,14 +7,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@hYjKlJHGfesDAwfryHG4586FDs4gH65rD4xG564xg64xD4g1564g156X4g1564D.HArlee23.wORkERS.dEV:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#Mt"
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@vera.ns.cloudflare.com:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M11"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@188.114.98.224:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#Mttt"
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@vasilii.ns.cloudflare.com:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M12"
  
                 },
 		{
@@ -22,14 +22,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS2.diGitAloCEan.CoM:2083?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M2"
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M13"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS1.diGitAloCEan.CoM.:2096?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M4"
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@hera.ns.cloudflare.com:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M14"
                 },
 		{
 		    "id"          : 5,
