@@ -1,6 +1,6 @@
 {   
-    "delay"   : 13000,
-    "note"    : "کاربران گرامی برای بهبود امنیت و بهتر شدن کیفیت ارتباط لطفا به اخرین نسخه موز در گوگل پلی یا در کانال تلگرام اپدیت نمایید ",
+    "delay"   : 03000,
+    "note"    : "🟨THE BUGFREENET VPN SERVERS🟨",
     "configs" : [
 		{
 		    "id"          : 1,
@@ -31,117 +31,6 @@
                     "ping"        : 0,
                     "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@hera.ns.cloudflare.com:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M14"
                 },
-		{
-		    "id"          : 5,
-                    "symbol"      : "FR",
-                    "countryName" : "France",
-                    "ping"        : 0,
-		    "config"      : "vless://e2f40fc3-2042-431e-88e4-ddb5eff87755@151.101.35.33:80?encryption=none&security=none&type=ws&host=xn--79qx8ba99ki81a28qfpy95inp5e.com.&path=%2Fxui#F22"
-                }, 
-		{
-		    "id"          : 6,
-                    "symbol"      : "NL",
-                    "countryName" : "Netherlands",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@mona.ns.cloudflare.com:443?encryption=none&security=tls&sni=dBD6155C.MeHrDad-6Ut.pAGes.DeV.&alpn=http%2F1.1&fp=randomized&type=ws&host=F46C6D86.MeHrDaD-6uT.PagEs.dEv.&path=%2F%3Fed%3D2048#M100" 
-                },
-		{
-		    "id"          : 7,
-                    "symbol"      : "DE",
-                    "countryName" : "Germany",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@hunts.ns.cloudflare.com:443?encryption=none&security=tls&sni=dBD6155C.MeHrDad-6Ut.pAGes.DeV.&alpn=http%2F1.1&fp=randomized&type=ws&host=F46C6D86.MeHrDaD-6uT.PagEs.dEv.&path=%2F%3Fed%3D2048#M101"
-                },
-		{
-		    "id"          : 8,
-                    "symbol"      : "SW",
-                    "countryName" : "Sweden",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@lia.ns.cloudflare.com:443?encryption=none&security=tls&sni=dBD6155C.MeHrDad-6Ut.pAGes.DeV.&alpn=http%2F1.1&fp=randomized&type=ws&host=F46C6D86.MeHrDaD-6uT.PagEs.dEv.&path=%2F%3Fed%3D2048#M102"
-                },
-		{
-		    "id"          : 9,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@ace.ns.cloudflare.com:443?encryption=none&security=tls&sni=dBD6155C.MeHrDad-6Ut.pAGes.DeV.&alpn=http%2F1.1&fp=randomized&type=ws&host=F46C6D86.MeHrDaD-6uT.PagEs.dEv.&path=%2F%3Fed%3D2048#M103" 
-                },
-		{
-		    "id"          : 10,
-                    "symbol"      : "CA",
-                    "countryName" : "Canada",
-                    "ping"        : 0,
-                    "config"      : "trojan://67Otq4AtTO@92.38.142.30:80?security=none&alpn=http%2F1.1&fp=randomized&type=ws&host=iran-qeshm.ir.&path=%2F#Packet%2BVPN%2BTro" 
-                },
-		{
-		    "id"          : 11,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@adele.ns.cloudflare.com:443?encryption=none&security=tls&sni=dBD6155C.MeHrDad-6Ut.pAGes.DeV.&alpn=http%2F1.1&fp=randomized&type=ws&host=F46C6D86.MeHrDaD-6uT.PagEs.dEv.&path=%2F%3Fed%3D2048#M109" 
-                },
-		{
-		    "id"          : 12,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://ce78248d-a6c5-4434-b1f8-7469dddcf11a@146.19.215.112:80?encryption=none&security=none&type=tcp&headerType=none#sp4m2oze" 
-                },
-		{
-		    "id"          : 13,
-                    "symbol"      : "DE",
-                    "countryName" : "Germany",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@aspen.ns.cloudflare.com:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M15" 
-                },
-		{
-		    "id"          : 14,
-                    "symbol"      : "FR",
-                    "countryName" : "France",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@lee.ns.cloudflare.com:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M16" 
-                },
-		{
-		    "id"          : 15,
-                    "symbol"      : "NL",
-                    "countryName" : "Netherlands",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@kareem.ns.cloudflare.com:443?encryption=none&security=tls&sni=dBD6155C.MeHrDad-6Ut.pAGes.DeV.&alpn=http%2F1.1&fp=randomized&type=ws&host=F46C6D86.MeHrDaD-6uT.PagEs.dEv.&path=%2F%3Fed%3D2048#M104" 
-                },
-		{
-		    "id"          : 16,
-                    "symbol"      : "UK",
-                    "countryName" : "United Kingdom",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@veda.ns.cloudflare.com:443?encryption=none&security=tls&sni=dBD6155C.MeHrDad-6Ut.pAGes.DeV.&alpn=http%2F1.1&fp=randomized&type=ws&host=F46C6D86.MeHrDaD-6uT.PagEs.dEv.&path=%2F%3Fed%3D2048#M105" 
-                },
-		{
-		    "id"          : 17,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@emely.ns.cloudflare.com:443?encryption=none&security=tls&sni=dBD6155C.MeHrDad-6Ut.pAGes.DeV.&alpn=http%2F1.1&fp=randomized&type=ws&host=F46C6D86.MeHrDaD-6uT.PagEs.dEv.&path=%2F%3Fed%3D2048#M106" 
-                },
-		{
-		    "id"          : 18,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@sage.ns.cloudflare.com:443?encryption=none&security=tls&sni=dBD6155C.MeHrDad-6Ut.pAGes.DeV.&alpn=http%2F1.1&fp=randomized&type=ws&host=F46C6D86.MeHrDaD-6uT.PagEs.dEv.&path=%2F%3Fed%3D2048#M107" 
-                },
-		{
-		    "id"          : 19,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@melody.ns.cloudflare.com:443?encryption=none&security=tls&sni=dBD6155C.MeHrDad-6Ut.pAGes.DeV.&alpn=http%2F1.1&fp=randomized&type=ws&host=F46C6D86.MeHrDaD-6uT.PagEs.dEv.&path=%2F%3Fed%3D2048#M108" 
-                },
-		{
-		    "id"          : 20,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@adele.ns.cloudflare.com:443?encryption=none&security=tls&sni=dBD6155C.MeHrDad-6Ut.pAGes.DeV.&alpn=http%2F1.1&fp=randomized&type=ws&host=F46C6D86.MeHrDaD-6uT.PagEs.dEv.&path=%2F%3Fed%3D2048#M109" 
                 }
 	
 		
