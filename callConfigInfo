@@ -22,14 +22,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M13"
+                    "config"      : "vless://fb9e89b4-1f5c-42bc-8a44-76c7f65f9966@85.198.15.122:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#The+BugFreeNet+Servers"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@hera.ns.cloudflare.com:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M14"
+                    "config"      : "vless://b6786dca-c8a2-49db-a2e0-13c6477d7e7c@185.146.173.68:8080?path=Mehdi%3Fed%3D8080&security=none&encryption=none&host=TAla.gUlfpersianserverir.coM&type=ws#The+BugFreeNet+Servers"
                 },
                 }
 	
