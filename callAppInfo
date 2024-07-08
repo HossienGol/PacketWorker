@@ -1,6 +1,6 @@
 {
       "adEnable"                : false,
       "appEnable"               : true,
-      "timer"                   : 9999999,
+      "timer"                   : 0999999,
       "channelLink"             : "https://t.me/BugFreeNet"            
 }
